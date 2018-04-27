@@ -20,14 +20,15 @@
 \contentsline {subsubsection}{\numberline {3.1.1.3}连接}{9}{subsubsection.3.1.1.3}
 \contentsline {subsubsection}{\numberline {3.1.1.4}登录和注册}{10}{subsubsection.3.1.1.4}
 \contentsline {subsubsection}{\numberline {3.1.1.5}创建会话}{10}{subsubsection.3.1.1.5}
-\contentsline {section}{\numberline {3.2}性能需求}{10}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}服务器端性能需求}{10}{subsection.3.2.1}
-\contentsline {subsection}{\numberline {3.2.2}Android客户端性能需求}{10}{subsection.3.2.2}
+\contentsline {subsubsection}{\numberline {3.1.1.6}会话界面}{10}{subsubsection.3.1.1.6}
+\contentsline {section}{\numberline {3.2}性能需求}{11}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}服务器端性能需求}{11}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Android客户端性能需求}{11}{subsection.3.2.2}
 \contentsline {section}{\numberline {3.3}外部接口需求}{11}{section.3.3}
 \contentsline {subsection}{\numberline {3.3.1}用户接口}{11}{subsection.3.3.1}
 \contentsline {subsection}{\numberline {3.3.2}软件接口}{11}{subsection.3.3.2}
-\contentsline {subsection}{\numberline {3.3.3}硬件接口}{11}{subsection.3.3.3}
-\contentsline {subsection}{\numberline {3.3.4}通讯接口}{11}{subsection.3.3.4}
+\contentsline {subsection}{\numberline {3.3.3}硬件接口}{12}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.4}通讯接口}{12}{subsection.3.3.4}
 \addvspace {12bp}
 \contentsline {chapter}{\numberline {第4章\hspace {.3em}}总体设计约束}{13}{chapter.4}
 \contentsline {section}{\numberline {4.1}标准符合性}{13}{section.4.1}
@@ -61,7 +62,7 @@
 \contentsline {subsection}{\numberline {10.5.2}顺序编码制标注法}{24}{subsection.10.5.2}
 \contentsline {subsection}{\numberline {10.5.3}其他形式的标注}{25}{subsection.10.5.3}
 \addvspace {12bp}
-\contentsline {chapter}{参考文献}{26}{chapter*.14}
+\contentsline {chapter}{参考文献}{26}{chapter*.15}
 \contentsline {chapter}{\numberline {附录 A\hspace {.3em}}可行性分析结果}{27}{appendix.A}
 \contentsline {chapter}{\numberline {附录 B\hspace {.3em}}需求建模 }{28}{appendix.B}
 \contentsline {section}{\numberline {B.1}数据流图}{28}{section.B.1}
