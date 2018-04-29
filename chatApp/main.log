@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.3-0.9997.5 (MiKTeX 2.9) (preloaded format=xelatex 2018.4.28)  29 APR 2018 11:37
+This is XeTeX, Version 3.1415926-2.3-0.9997.5 (MiKTeX 2.9) (preloaded format=xelatex 2018.4.28)  29 APR 2018 20:13
 entering extended mode
 **main.tex
 
@@ -2024,12 +2024,16 @@ Overfull \vbox (7.44269pt too high) has occurred while \output is active []
 [13
 
 ]
+Overfull \vbox (7.44269pt too high) has occurred while \output is active []
+
+
+[14]
 第五章
 
 Overfull \vbox (7.44269pt too high) has occurred while \output is active []
 
 
-[14
+[15
 
 ])
 (C:\Users\qianjxiang\Documents\GitHub\software-engineering-project\chatApp\chap
@@ -2037,7 +2041,7 @@ ters/others.tex
 Overfull \vbox (7.44269pt too high) has occurred while \output is active []
 
 
-[15]
+[16]
 第六章
 )
 (C:\Users\qianjxiang\Documents\GitHub\software-engineering-project\chatApp\chap
@@ -2045,7 +2049,7 @@ ters/dependency.tex
 Overfull \vbox (7.44269pt too high) has occurred while \output is active []
 
 
-[16
+[17
 
 ]
 第七章
@@ -2055,7 +2059,7 @@ ters/importance_of_requirements.tex
 Overfull \vbox (7.44269pt too high) has occurred while \output is active []
 
 
-[17
+[18
 
 ]
 第八章
@@ -2065,7 +2069,7 @@ ters/to_be_determined.tex
 Overfull \vbox (7.44269pt too high) has occurred while \output is active []
 
 
-[18
+[19
 
 ]
 第九章
@@ -2080,7 +2084,7 @@ ters/latex_examples.tex
 Overfull \vbox (7.44269pt too high) has occurred while \output is active []
 
 
-[19
+[20
 
 ]
 第十章
@@ -2091,17 +2095,17 @@ File: figures/ustc_logo_fig.pdf Graphic file (type QTm)
 Overfull \vbox (7.44269pt too high) has occurred while \output is active []
 
 
-[20
+[21
 
 ]
 Overfull \vbox (7.44269pt too high) has occurred while \output is active []
 
 
-[21]
+[22]
 Overfull \vbox (7.44269pt too high) has occurred while \output is active []
 
 
-[22]
+[23]
 Requested font "Courier New/ICU:script=latn;language=DFLT;mapping=tex-text;" at
  12.045pt
  -> C:/WINDOWS/Fonts/cour.ttf
@@ -2221,7 +2225,7 @@ Package relsize Warning: Current font size is unknown! (Why?!?)
 (relsize)                Assuming \normalsize on input line 146.
 
 
-LaTeX Warning: Reference `first-code' on page 23 undefined on input line 155.
+LaTeX Warning: Reference `first-code' on page 24 undefined on input line 155.
 
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
 nput line 156.
@@ -2229,11 +2233,11 @@ nput line 156.
 Overfull \vbox (7.44269pt too high) has occurred while \output is active []
 
 
-[23]
+[24]
 Overfull \vbox (7.44269pt too high) has occurred while \output is active []
 
 
-[24]
+[25]
 Requested font "Courier New/B/ICU:script=latn;language=DFLT;mapping=tex-text;" 
 at 9.03pt
  -> C:/WINDOWS/Fonts/courbd.ttf
@@ -2248,7 +2252,7 @@ Requested font "[lmmono9-regular]" at 9.03pt
 Overfull \vbox (7.44269pt too high) has occurred while \output is active []
 
 
-[25]
+[26]
 Overfull \hbox (15.06282pt too wide) in paragraph at lines 230--241
 [] 
  []
@@ -2259,7 +2263,7 @@ Overfull \hbox (15.06282pt too wide) in paragraph at lines 230--241
 Overfull \vbox (7.44269pt too high) has occurred while \output is active []
 
 
-[26]
+[27]
 ! Undefined control sequence.
 \thebibliography ...\ifustc@opt@bachelor \ctexset 
                                                   {chapter/format += \zihao ...
@@ -2275,7 +2279,7 @@ and I'll forget about whatever was undefined.
 Overfull \vbox (7.44269pt too high) has occurred while \output is active []
 
 
-[27
+[28
 
 ]
 Requested font "Times New Roman/ICU:script=latn;language=DFLT;mapping=tex-text;
@@ -2327,7 +2331,7 @@ Requested font "Times New Roman/ICU:script=latn;language=DFLT;mapping=tex-text;
 Overfull \vbox (7.44269pt too high) has occurred while \output is active []
 
 
-[28
+[29
 
 ])
 (C:\Users\qianjxiang\Documents\GitHub\software-engineering-project\chatApp\chap
@@ -2339,7 +2343,7 @@ ters/appendixB.tex
 Overfull \vbox (7.44269pt too high) has occurred while \output is active []
 
 
-[29
+[30
 
 
 ]
@@ -2348,7 +2352,7 @@ Overfull \vbox (7.44269pt too high) has occurred while \output is active []
 Overfull \vbox (7.44269pt too high) has occurred while \output is active []
 
 
-[30
+[31
 
 ])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 75.
@@ -2356,7 +2360,7 @@ Package atveryend Info: Empty hook `BeforeClearDocument' on input line 75.
 Overfull \vbox (7.44269pt too high) has occurred while \output is active []
 
 
-[31]
+[32]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 75.
 
 (C:\Users\qianjxiang\Documents\GitHub\software-engineering-project\chatApp\main
@@ -2375,12 +2379,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 34312 strings out of 430478
- 639827 string characters out of 3191502
- 701458 words of memory out of 3000000
- 36794 multiletter control sequences out of 15000+200000
+ 34316 strings out of 430478
+ 639877 string characters out of 3191502
+ 701470 words of memory out of 3000000
+ 36798 multiletter control sequences out of 15000+200000
  24108 words of font info for 166 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
  63i,18n,99p,896b,1319s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on main.pdf (35 pages).
+Output written on main.pdf (36 pages).

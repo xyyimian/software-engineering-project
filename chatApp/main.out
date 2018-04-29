@@ -33,34 +33,44 @@
 \BOOKMARK [1][-]{section.5.4}{5.4 可维护性}{chapter.5}% 33
 \BOOKMARK [1][-]{section.5.5}{5.5 可移植性}{chapter.5}% 34
 \BOOKMARK [1][-]{section.5.6}{5.6 可测试性}{chapter.5}% 35
-\BOOKMARK [0][]{chapter.6}{第六章  其他需求}{}% 36
-\BOOKMARK [1][-]{section.6.1}{6.1 数据库}{chapter.6}% 37
-\BOOKMARK [1][-]{section.6.2}{6.2 操作}{chapter.6}% 38
-\BOOKMARK [1][-]{section.6.3}{6.3 本地化}{chapter.6}% 39
-\BOOKMARK [0][]{chapter.7}{第七章  依赖关系}{}% 40
-\BOOKMARK [0][]{chapter.8}{第八章  需求分级}{}% 41
-\BOOKMARK [0][]{chapter.9}{第九章  待确定问题}{}% 42
-\BOOKMARK [0][]{chapter.10}{第十章  Latex使用例子}{}% 43
-\BOOKMARK [1][-]{section.10.1}{10.1 图}{chapter.10}% 44
-\BOOKMARK [2][-]{subsection.10.1.1}{10.1.1 示例}{section.10.1}% 45
-\BOOKMARK [2][-]{subsection.10.1.2}{10.1.2 带图注的图}{section.10.1}% 46
-\BOOKMARK [1][-]{section.10.2}{10.2 表格}{chapter.10}% 47
-\BOOKMARK [2][-]{subsection.10.2.1}{10.2.1\040A\040Simple\040Table}{section.10.2}% 48
-\BOOKMARK [2][-]{subsection.10.2.2}{10.2.2 长表格}{section.10.2}% 49
-\BOOKMARK [1][-]{section.10.3}{10.3 算法环境}{chapter.10}% 50
-\BOOKMARK [1][-]{section.10.4}{10.4 代码环境}{chapter.10}% 51
-\BOOKMARK [1][-]{section.10.5}{10.5 引用文献标注}{chapter.10}% 52
-\BOOKMARK [2][-]{subsection.10.5.1}{10.5.1 著者-出版年制标注法}{section.10.5}% 53
-\BOOKMARK [2][-]{subsection.10.5.2}{10.5.2 顺序编码制标注法}{section.10.5}% 54
-\BOOKMARK [2][-]{subsection.10.5.3}{10.5.3 其他形式的标注}{section.10.5}% 55
-\BOOKMARK [0][]{chapter*.15}{参考文献}{}% 56
-\BOOKMARK [0][]{appendix.A}{附录 A  可行性分析结果}{}% 57
-\BOOKMARK [0][]{appendix.B}{附录 B  需求建模 }{}% 58
-\BOOKMARK [1][-]{section.B.1}{B.1 数据流图}{appendix.B}% 59
-\BOOKMARK [2][-]{subsection.B.1.1}{B.1.1 顶层数据流图}{section.B.1}% 60
-\BOOKMARK [2][-]{subsection.B.1.2}{B.1.2 层数据流图}{section.B.1}% 61
-\BOOKMARK [2][-]{subsection.B.1.3}{B.1.3 层数据流图}{section.B.1}% 62
-\BOOKMARK [1][-]{section.B.2}{B.2 数据字典}{appendix.B}% 63
-\BOOKMARK [2][-]{subsection.B.2.1}{B.2.1 数据流说明}{section.B.2}% 64
-\BOOKMARK [2][-]{subsection.B.2.2}{B.2.2 数据存储说明}{section.B.2}% 65
-\BOOKMARK [2][-]{subsection.B.2.3}{B.2.3 加工说明}{section.B.2}% 66
+\BOOKMARK [1][-]{section.5.7}{5.7 安全可靠性}{chapter.5}% 36
+\BOOKMARK [0][]{chapter.6}{第六章  其他需求}{}% 37
+\BOOKMARK [1][-]{section.6.1}{6.1 数据库}{chapter.6}% 38
+\BOOKMARK [1][-]{section.6.2}{6.2 操作}{chapter.6}% 39
+\BOOKMARK [1][-]{section.6.3}{6.3 本地化}{chapter.6}% 40
+\BOOKMARK [0][]{chapter.7}{第七章  依赖关系}{}% 41
+\BOOKMARK [1][-]{section.7.1}{7.1 功能需求}{chapter.7}% 42
+\BOOKMARK [2][-]{subsection.7.1.1}{7.1.1 内部依赖}{section.7.1}% 43
+\BOOKMARK [2][-]{subsection.7.1.2}{7.1.2 外部依赖}{section.7.1}% 44
+\BOOKMARK [1][-]{section.7.2}{7.2 性能需求}{chapter.7}% 45
+\BOOKMARK [2][-]{subsection.7.2.1}{7.2.1 内部依赖}{section.7.2}% 46
+\BOOKMARK [2][-]{subsection.7.2.2}{7.2.2 外部依赖}{section.7.2}% 47
+\BOOKMARK [1][-]{section.7.3}{7.3 接口需求}{chapter.7}% 48
+\BOOKMARK [2][-]{subsection.7.3.1}{7.3.1 内部依赖}{section.7.3}% 49
+\BOOKMARK [2][-]{subsection.7.3.2}{7.3.2 外部依赖}{section.7.3}% 50
+\BOOKMARK [0][]{chapter.8}{第八章  需求分级}{}% 51
+\BOOKMARK [0][]{chapter.9}{第九章  待确定问题}{}% 52
+\BOOKMARK [0][]{chapter.10}{第十章  Latex使用例子}{}% 53
+\BOOKMARK [1][-]{section.10.1}{10.1 图}{chapter.10}% 54
+\BOOKMARK [2][-]{subsection.10.1.1}{10.1.1 示例}{section.10.1}% 55
+\BOOKMARK [2][-]{subsection.10.1.2}{10.1.2 带图注的图}{section.10.1}% 56
+\BOOKMARK [1][-]{section.10.2}{10.2 表格}{chapter.10}% 57
+\BOOKMARK [2][-]{subsection.10.2.1}{10.2.1\040A\040Simple\040Table}{section.10.2}% 58
+\BOOKMARK [2][-]{subsection.10.2.2}{10.2.2 长表格}{section.10.2}% 59
+\BOOKMARK [1][-]{section.10.3}{10.3 算法环境}{chapter.10}% 60
+\BOOKMARK [1][-]{section.10.4}{10.4 代码环境}{chapter.10}% 61
+\BOOKMARK [1][-]{section.10.5}{10.5 引用文献标注}{chapter.10}% 62
+\BOOKMARK [2][-]{subsection.10.5.1}{10.5.1 著者-出版年制标注法}{section.10.5}% 63
+\BOOKMARK [2][-]{subsection.10.5.2}{10.5.2 顺序编码制标注法}{section.10.5}% 64
+\BOOKMARK [2][-]{subsection.10.5.3}{10.5.3 其他形式的标注}{section.10.5}% 65
+\BOOKMARK [0][]{chapter*.15}{参考文献}{}% 66
+\BOOKMARK [0][]{appendix.A}{附录 A  可行性分析结果}{}% 67
+\BOOKMARK [0][]{appendix.B}{附录 B  需求建模 }{}% 68
+\BOOKMARK [1][-]{section.B.1}{B.1 数据流图}{appendix.B}% 69
+\BOOKMARK [2][-]{subsection.B.1.1}{B.1.1 顶层数据流图}{section.B.1}% 70
+\BOOKMARK [2][-]{subsection.B.1.2}{B.1.2 层数据流图}{section.B.1}% 71
+\BOOKMARK [2][-]{subsection.B.1.3}{B.1.3 层数据流图}{section.B.1}% 72
+\BOOKMARK [1][-]{section.B.2}{B.2 数据字典}{appendix.B}% 73
+\BOOKMARK [2][-]{subsection.B.2.1}{B.2.1 数据流说明}{section.B.2}% 74
+\BOOKMARK [2][-]{subsection.B.2.2}{B.2.2 数据存储说明}{section.B.2}% 75
+\BOOKMARK [2][-]{subsection.B.2.3}{B.2.3 加工说明}{section.B.2}% 76
