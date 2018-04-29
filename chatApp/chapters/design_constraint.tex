@@ -1,19 +1,37 @@
 \chapter{总体设计约束}
-<Describe any items or issues that will limit the options available to the developers. >
 
-描述可能限制开发人员选择的事项。
+
+对于开发人员可能的限制有：来自国内或者国际上的标准
+硬件的条件
+开发技术的约束
+具体实现上的约束
  
 \section{标准符合性}
-< This subsection should specify the requirements derived from existing standards or regulations. In case, if the project refers any International standards, then the deviations from the standards could be specified along with the International standards reference. >
 
-本节详细说明需求所采用的标准或规范的来源。如果项目采用了国际标准，应该说明国际标准及项目与标准的偏离情况。
+
+本章所遵循的设计原则均来源于IEEE对通讯系统和数据库的标准，所假定的硬件均为当下一般民众的平均水平，并且所有的行为是在相关法律法规的允许之下执行的。
+
 
 \section{硬件约束}
-<This subsection could include Requirements for the software to operate inside various hardware constraints, such as timing constraints, memory constraints etc.)
 
-本节包括软件在不同的硬件平台运行的需求，如时间相关的约束，内存方面的约束等。
+\begin{enumerate}
+	\item Android平台：软件本身大小<100MB；本地聊天记录文件不大于1G，并且有着自动清除过时的聊天记录功能；文本通信延迟<100ms；内存占用<100MB；流量消耗不超过通信本身数据量的1.1倍；电量消耗不超过机体待机时的两倍
+	\item Windoes平台：约束较少，主要考虑的磁盘和内存约束与Android一致。
+\end{enumerate}
 
 \section{技术限制}
-<This subsection could include limitations on the use of specific technologies, interfaces, databases, parallel operations; communications protocols; design conventions or programming standards. >
 
-本节包括对使用特定技术的限制，包括接口，数据库，并行操作，通讯协议，设计约定，编程规范等。
+\begin{enumerate}
+	\item 考虑到服务器网络带宽问题，视频聊天的清晰度最高维持在360P；
+	\item 
+	由于技术上的限制，除去文本类的通信记录都不会被保存；
+	\item
+	用户无法在不同的客户端上共享聊天记录；
+	\item
+	用户无法在周日凌晨2：00至4：00使用通讯软件的聊天功能因为这个时候应该是维护服务器的时候；
+	\item 
+	由于服务器磁盘大小的限制，用户传输文件的大小有着<8MB的限制
+	
+\end{enumerate}
+
+\section{实现功能约束}

@@ -1,8 +1,29 @@
 \chapter{软件质量特性}
-<Specify any additional quality characteristics for the project that will be important to either the customers or the developers. Some to consider are: adaptability, availability, correctness, flexibility, interoperability, maintainability, portability, reliability, reusability, robustness, testability, and usability. Write these to be specific, quantitative, and verifiable when possible. At the least, clarify the relative preferences for various attributes, such as ease of use over ease of learning.
+
 
 详细说明项目任何其他的质量特性。该特性对客户和开发者都非常重要。考虑的方面包括：适应性，可用性，正确性，灵活性，交互工作能力，可维护性，可移植性，可靠性，可重用性，鲁棒性，可测试性和可用性等。定量的详细描述这些特性，尽可能的可验证。对不同属性之间的重要性加以阐述，如：易用性比易学性更重要。
 
-<Please use the below sub-section for each attributes separately. You can copy the section for additional attributes. >
 
-每一个属性单独使用一个小节描述，可根据需要进行增减，如增加可维护性小节等。
+
+\section{适应性}
+考虑到Android平台本身的共通性，通讯系统能正常的运行在绝大部分的Android5.0.1及以上版本的机器上。至于windows平台，则支持xp及以上的操作系统，需要包含微软提供的.Net4.0的组件即可。
+
+
+\section{交互工作能力}
+通讯系统有着完整的用户友好的UI，易于上手。
+
+\section{灵活性}
+通讯系统既可以和好友一对一交流，又可以在群组多对多交流，还可以随机配对，和大厅里的任何一个用户交流。
+
+\section{可维护性}
+由于用户端和服务器端的分离，用户端的升级只需要通过软件提供商更新安装包就可以了。而后台服务器端则是至少24小时备份一次数据库，至少每周进行一次人工维护。并且所有维护均会留下维护记录，所有的错误信息也会留下log，可维护性得以保障。
+
+\section{可移植性}
+通讯系统由Java开发，我们不仅准备了Android和Windows的两种版本，也使得打包封装和移植到别的系统简单。
+
+\section{可测试性}
+通讯系统提供了专门用于测试的接口，并且还会提供开发中的各种中间版本作为升级记录。
+
+\section{安全可靠性}
+通讯系统在http，tcp等网络传输协议之外，发送的报文还会进行一层RSA加密，大大增强信息的安全性。此外对于绑定邮箱的用户还会有额外的异常登录验证，确保用户账户的安全性。并且开发人员绝不会收集用户的信息和聊天记录，通讯系统是一个绝对的绿色安全可靠的软件。
+
