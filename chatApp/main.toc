@@ -53,46 +53,55 @@
 \addvspace {12bp}
 \contentsline {chapter}{\numberline {第7章\hspace {.3em}}依赖关系}{18}{chapter.7}
 \contentsline {section}{\numberline {7.1}功能需求}{18}{section.7.1}
-\contentsline {subsection}{\numberline {7.1.1}内部依赖}{18}{subsection.7.1.1}
-\contentsline {subsection}{\numberline {7.1.2}外部依赖}{18}{subsection.7.1.2}
-\contentsline {section}{\numberline {7.2}性能需求}{18}{section.7.2}
-\contentsline {subsection}{\numberline {7.2.1}内部依赖}{18}{subsection.7.2.1}
-\contentsline {subsection}{\numberline {7.2.2}外部依赖}{18}{subsection.7.2.2}
-\contentsline {section}{\numberline {7.3}接口需求}{18}{section.7.3}
-\contentsline {subsection}{\numberline {7.3.1}内部依赖}{18}{subsection.7.3.1}
-\contentsline {subsection}{\numberline {7.3.2}外部依赖}{18}{subsection.7.3.2}
+\contentsline {subsection}{\numberline {7.1.1}Android客户端功能要求}{18}{subsection.7.1.1}
+\contentsline {section}{\numberline {7.2}内部依赖}{18}{section.7.2}
+\contentsline {section}{\numberline {7.3}性能需求}{18}{section.7.3}
+\contentsline {subsection}{\numberline {7.3.1}服务器端性能要求}{18}{subsection.7.3.1}
+\contentsline {section}{\numberline {7.4}内部依赖}{18}{section.7.4}
+\contentsline {subsection}{\numberline {7.4.1}Android端性能要求}{18}{subsection.7.4.1}
+\contentsline {section}{\numberline {7.5}接口需求}{18}{section.7.5}
+\contentsline {subsection}{\numberline {7.5.1}用户接口}{18}{subsection.7.5.1}
+\contentsline {subsection}{\numberline {7.5.2}软件接口}{18}{subsection.7.5.2}
+\contentsline {section}{\numberline {7.6}内部依赖}{18}{section.7.6}
+\contentsline {section}{\numberline {7.7}外部依赖}{18}{section.7.7}
+\contentsline {subsection}{\numberline {7.7.1}硬件接口}{19}{subsection.7.7.1}
+\contentsline {section}{\numberline {7.8}内部依赖}{19}{section.7.8}
+\contentsline {section}{\numberline {7.9}外部依赖}{19}{section.7.9}
+\contentsline {subsection}{\numberline {7.9.1}通信接口}{19}{subsection.7.9.1}
+\contentsline {section}{\numberline {7.10}内部依赖}{19}{section.7.10}
+\contentsline {section}{\numberline {7.11}外部依赖}{19}{section.7.11}
 \addvspace {12bp}
-\contentsline {chapter}{\numberline {第8章\hspace {.3em}}需求分级}{19}{chapter.8}
+\contentsline {chapter}{\numberline {第8章\hspace {.3em}}需求分级}{20}{chapter.8}
 \addvspace {12bp}
-\contentsline {chapter}{\numberline {第9章\hspace {.3em}}待确定问题}{20}{chapter.9}
+\contentsline {chapter}{\numberline {第9章\hspace {.3em}}待确定问题}{21}{chapter.9}
 \addvspace {12bp}
-\contentsline {chapter}{\numberline {第10章\hspace {.3em}}Latex使用例子}{21}{chapter.10}
-\contentsline {section}{\numberline {10.1}图}{21}{section.10.1}
-\contentsline {subsection}{\numberline {10.1.1}示例}{21}{subsection.10.1.1}
-\contentsline {subsection}{\numberline {10.1.2}带图注的图}{21}{subsection.10.1.2}
-\contentsline {section}{\numberline {10.2}表格}{21}{section.10.2}
-\contentsline {subsection}{\numberline {10.2.1}A Simple Table}{21}{subsection.10.2.1}
-\contentsline {subsection}{\numberline {10.2.2}长表格}{21}{subsection.10.2.2}
-\contentsline {section}{\numberline {10.3}算法环境}{24}{section.10.3}
-\contentsline {section}{\numberline {10.4}代码环境}{24}{section.10.4}
-\contentsline {section}{\numberline {10.5}引用文献标注}{26}{section.10.5}
-\contentsline {subsection}{\numberline {10.5.1}著者-出版年制标注法}{26}{subsection.10.5.1}
-\contentsline {subsection}{\numberline {10.5.2}顺序编码制标注法}{26}{subsection.10.5.2}
-\contentsline {subsection}{\numberline {10.5.3}其他形式的标注}{27}{subsection.10.5.3}
+\contentsline {chapter}{\numberline {第10章\hspace {.3em}}Latex使用例子}{22}{chapter.10}
+\contentsline {section}{\numberline {10.1}图}{22}{section.10.1}
+\contentsline {subsection}{\numberline {10.1.1}示例}{22}{subsection.10.1.1}
+\contentsline {subsection}{\numberline {10.1.2}带图注的图}{22}{subsection.10.1.2}
+\contentsline {section}{\numberline {10.2}表格}{22}{section.10.2}
+\contentsline {subsection}{\numberline {10.2.1}A Simple Table}{22}{subsection.10.2.1}
+\contentsline {subsection}{\numberline {10.2.2}长表格}{22}{subsection.10.2.2}
+\contentsline {section}{\numberline {10.3}算法环境}{25}{section.10.3}
+\contentsline {section}{\numberline {10.4}代码环境}{25}{section.10.4}
+\contentsline {section}{\numberline {10.5}引用文献标注}{27}{section.10.5}
+\contentsline {subsection}{\numberline {10.5.1}著者-出版年制标注法}{27}{subsection.10.5.1}
+\contentsline {subsection}{\numberline {10.5.2}顺序编码制标注法}{27}{subsection.10.5.2}
+\contentsline {subsection}{\numberline {10.5.3}其他形式的标注}{28}{subsection.10.5.3}
 \addvspace {12bp}
-\contentsline {chapter}{参考文献}{28}{chapter*.15}
-\contentsline {chapter}{\numberline {附录 A\hspace {.3em}}可行性分析结果}{29}{appendix.A}
-\contentsline {chapter}{\numberline {附录 B\hspace {.3em}}需求建模 }{30}{appendix.B}
-\contentsline {section}{\numberline {B.1}数据流图}{30}{section.B.1}
-\contentsline {subsection}{\numberline {B.1.1}顶层数据流图}{30}{subsection.B.1.1}
-\contentsline {subsection}{\numberline {B.1.2}层数据流图}{30}{subsection.B.1.2}
-\contentsline {section}{\numberline {B.2}数据字典}{30}{section.B.2}
-\contentsline {subsection}{\numberline {B.2.1}数据流说明}{30}{subsection.B.2.1}
-\contentsline {subsubsection}{\numberline {B.2.1.1}数据流1名称}{30}{subsubsection.B.2.1.1}
-\contentsline {subsubsection}{\numberline {B.2.1.2}数据流2名称}{30}{subsubsection.B.2.1.2}
-\contentsline {subsection}{\numberline {B.2.2}数据存储说明}{30}{subsection.B.2.2}
-\contentsline {subsubsection}{\numberline {B.2.2.1}数据存储1名称}{30}{subsubsection.B.2.2.1}
-\contentsline {subsubsection}{\numberline {B.2.2.2}数据存储2名称}{31}{subsubsection.B.2.2.2}
-\contentsline {subsection}{\numberline {B.2.3}加工说明}{31}{subsection.B.2.3}
-\contentsline {subsubsection}{\numberline {B.2.3.1}加工1名称}{31}{subsubsection.B.2.3.1}
+\contentsline {chapter}{参考文献}{29}{chapter*.15}
+\contentsline {chapter}{\numberline {附录 A\hspace {.3em}}可行性分析结果}{30}{appendix.A}
+\contentsline {chapter}{\numberline {附录 B\hspace {.3em}}需求建模 }{31}{appendix.B}
+\contentsline {section}{\numberline {B.1}数据流图}{31}{section.B.1}
+\contentsline {subsection}{\numberline {B.1.1}顶层数据流图}{31}{subsection.B.1.1}
+\contentsline {subsection}{\numberline {B.1.2}层数据流图}{31}{subsection.B.1.2}
+\contentsline {section}{\numberline {B.2}数据字典}{31}{section.B.2}
+\contentsline {subsection}{\numberline {B.2.1}数据流说明}{31}{subsection.B.2.1}
+\contentsline {subsubsection}{\numberline {B.2.1.1}数据流1名称}{31}{subsubsection.B.2.1.1}
+\contentsline {subsubsection}{\numberline {B.2.1.2}数据流2名称}{31}{subsubsection.B.2.1.2}
+\contentsline {subsection}{\numberline {B.2.2}数据存储说明}{31}{subsection.B.2.2}
+\contentsline {subsubsection}{\numberline {B.2.2.1}数据存储1名称}{31}{subsubsection.B.2.2.1}
+\contentsline {subsubsection}{\numberline {B.2.2.2}数据存储2名称}{32}{subsubsection.B.2.2.2}
+\contentsline {subsection}{\numberline {B.2.3}加工说明}{32}{subsection.B.2.3}
+\contentsline {subsubsection}{\numberline {B.2.3.1}加工1名称}{32}{subsubsection.B.2.3.1}
 \contentsfinish 
