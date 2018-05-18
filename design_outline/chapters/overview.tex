@@ -1,0 +1,108 @@
+\chapter{任务概述}
+本系统的目标是实现一个即时通信系统，包括客户端、服务器端两个部分。
+
+客户端面向Android或windows用户，为用户提供即时的文字、语言聊天，群聊等基本功能，考虑实现各种高级功能。
+
+\section{目标}
+\subsection{总体目标}
+实现实时通信系统的基本功能，实现需求规格说明书中所描述的功能需求、性能需求，以及实现实时聊天功能和群聊功能，并且保证系统的健壮性和数据安全。
+\subsection{高级目标}
+提供稳定的视频聊天功能。
+
+同时还能支持动态分享，皮肤自定义等个性化功能。
+
+\section{开发与运行环境}
+
+\subsection{开发环境的配置}
+\begin{table}[htbp]
+\centering
+\caption{开发环境的配置} \label{tab:development-environment}
+\begin{tabular}{|c|c|c|}
+    \hline
+    类别 & 标准配置 & 最低配置 \\
+    \hline
+    计算机硬件 & \tabincell{c}{基于x86结构的CPU\\ 主频>=2.4GHz\\ 内存>=8G\\ 硬盘>=200G} & \tabincell{c}{基于x86结构的CPU\\ 主频>=1.6GHz\\ 内存>=512M\\ 硬盘>=2G} \\
+    \hline
+    计算机软件 & \tabincell{c}{windows .net版本>4.0)} & \tabincell{c}windows .net版本>4.0)} \\
+    网络通信 & \tabincell{c}{至少要有一块可用网卡\\ 能运行IP协议栈即可} & \tabincell{c}{至少要有一块可用网卡\\ 能运行IP协议栈即可} \\
+    \hline
+    其他 & 采用MySQL数据库 & 采用MySQL数据库 \\
+    \hline
+\end{tabular}
+% \note{这里是表的注释}
+\end{table}
+
+\subsection{测试环境的配置}
+\begin{table}[htbp]
+\centering
+\caption{测试环境的配置} \label{tab:test-environment}
+\begin{tabular}{|c|c|c|}
+    \hline
+    类别 & 标准配置 & 最低配置 \\
+    \hline
+    计算机硬件 & \tabincell{c}{基于x86结构的CPU\\ 主频>=2.4GHz\\ 内存>=8G\\ 硬盘>=200G} & \tabincell{c}{基于x86结构的CPU\\ 主频>=1.6GHz\\ 内存>=512M\\ 硬盘>=2G} \\
+    \hline
+    计算机软件 & \tabincell{c}{Linux (kernel version>=4.10)\\ GNU gcc (version>=6.3.1)} & \tabincell{c}{Linux (kernel version>=3.10)\\ GNU gcc (version>=5.4)} \\
+    \hline
+    网络通信 & \tabincell{c}{至少要有一块可用网卡\\ 能运行IP协议栈即可} & \tabincell{c}{至少要有一块可用网卡\\ 能运行IP协议栈即可} \\
+    \hline
+    其他 & 采用MySQL数据库 & 采用MySQL数据库 \\
+    \hline
+
+\end{tabular}
+% \note{这里是表的注释}
+\end{table}
+
+\subsection{运行环境的配置}
+\begin{table}[htbp]
+\centering
+\caption{运行环境的配置} \label{tab:operation-environment}
+\begin{tabular}{|c|c|c|}
+    \hline
+    类别 & 标准配置 & 最低配置 \\
+    \hline
+    计算机硬件 & \tabincell{c}{基于x86结构的CPU\\ 主频>=2.4GHz\\ 内存>=8G\\ 硬盘>=200G} & \tabincell{c}{基于x86结构的CPU\\ 主频>=1.6GHz\\ 内存>=512M\\ 硬盘>=2G} \\
+    \hline
+    计算机软件 & \tabincell{c}{Linux (kernel version>=4.10)\\ GNU gcc (version>=6.3.1)} & \tabincell{c}{Linux (kernel version>=3.10)\\ GNU gcc (version>=5.4)} \\
+    \hline
+    网络通信 & \tabincell{c}{至少要有一块可用网卡\\ 能运行IP协议栈即可} & \tabincell{c}{至少要有一块可用网卡\\ 能运行IP协议栈即可} \\
+    \hline
+    其他 & 采用MySQL数据库 & 采用MySQL数据库 \\
+    \hline
+
+\end{tabular}
+% \note{这里是表的注释}
+\end{table}
+
+\section{需求概述}
+功能需求包括：
+通讯模式
+– 用户一对一通讯
+– 群聊
+– 随机匹配聊天
+• 通讯方式
+– 文字即时通讯
+– 图片、视频、音频、链接、文件等多种媒体的发送
+– 语音、视频及时通讯
+– 加密文字及时通讯
+• 用户控制
+– 注册/注销账号
+– 添加/删除联系人
+– 加入/退出/创建群聊
+
+\section{条件与限制}
+\subsection{硬件约束}
+
+1. Android 平台：软件本身大小 <100MB；本地聊天记录文件不大于 1G，并
+且有着自动清除过时的聊天记录功能；文本通信延迟 <100ms；内存占用
+<100MB；流量消耗不超过通信本身数据量的 1.1 倍；电量消耗不超过机体
+待机时的两倍
+2. Windoes 平台：约束较少，主要考虑的磁盘和内存约束与 Android 一致
+
+\subsection{技术限制}
+1. 考虑到服务器网络带宽问题，视频聊天的清晰度最高维持在 360P；
+2. 由于技术上的限制，除去文本类的通信记录都不会被保存；
+3. 用户无法在不同的客户端上共享聊天记录；
+4. 用户无法在周日凌晨 2：00 至 4：00 使用通讯软件的聊天功能因为这个时
+候应该是维护服务器的时候；
+5. 由于服务器磁盘大小的限制，用户传输文件的大小有着 <8MB 的限制
