@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6630 64-bit) (preloaded format=xelatex 2018.4.24)  20 MAY 2018 21:32
+This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6630 64-bit) (preloaded format=xelatex 2018.4.24)  20 MAY 2018 21:39
 entering extended mode
 **./main.tex
 (main.tex
@@ -2140,15 +2140,10 @@ File: figures/ui_signin.pdf Graphic file (type pdf)
 File: figures/ui_contacters.pdf Graphic file (type pdf)
 <use figures/ui_contacters.pdf>
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+Overfull \hbox (9.67381pt too wide) in paragraph at lines 13--14
+ [][] 
+ []
 
-File: figures/ui_chat.pdf Graphic file (type pdf)
-<use figures/ui_chat.pdf>
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-File: figures/ui_message.pdf Graphic file (type pdf)
-<use figures/ui_message.pdf>
 
 Overfull \vbox (7.44577pt too high) has occurred while \output is active []
 
@@ -2156,27 +2151,42 @@ Overfull \vbox (7.44577pt too high) has occurred while \output is active []
 [18
 
 ]
+File: figures/ui_chat.pdf Graphic file (type pdf)
+<use figures/ui_chat.pdf>
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+Overfull \hbox (9.67381pt too wide) in paragraph at lines 18--19
+ [][] 
+ []
 
-File: figures/ui_find.pdf Graphic file (type pdf)
-<use figures/ui_find.pdf>
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-) (chapters/design-error-handling.tex
 Overfull \vbox (7.44577pt too high) has occurred while \output is active []
 
 
 [19]
+File: figures/ui_message.pdf Graphic file (type pdf)
+<use figures/ui_message.pdf>
+
+Overfull \hbox (9.67381pt too wide) in paragraph at lines 23--24
+ [][] 
+ []
+
+
 Overfull \vbox (7.44577pt too high) has occurred while \output is active []
 
 
 [20]
+File: figures/ui_find.pdf Graphic file (type pdf)
+<use figures/ui_find.pdf>
+
+Overfull \hbox (9.67381pt too wide) in paragraph at lines 28--29
+ [][] 
+ []
+
+
 Overfull \vbox (7.44577pt too high) has occurred while \output is active []
 
 
-[21]
+[21]) (chapters/design-error-handling.tex
 Overfull \vbox (7.44577pt too high) has occurred while \output is active []
 
 
