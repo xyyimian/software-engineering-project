@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ChatAndroidClient-master.iml" filepath="$PROJECT_DIR$/ChatAndroidClient-master.iml" />
+      <module fileurl="file://E:\program\software engineering\software-engineering-project\src\ChatAndroidClient-master\ChatAndroidClient-master\ZFChat.iml" filepath="E:\program\software engineering\software-engineering-project\src\ChatAndroidClient-master\ChatAndroidClient-master\ZFChat.iml" />
+      <module fileurl="file://E:\program\software engineering\software-engineering-project\src\ChatAndroidClient-master\ChatAndroidClient-master\app\app.iml" filepath="E:\program\software engineering\software-engineering-project\src\ChatAndroidClient-master\ChatAndroidClient-master\app\app.iml" />
+    </modules>
+  </component>
+</project>
