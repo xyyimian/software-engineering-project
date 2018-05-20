@@ -35,7 +35,7 @@ It is very helpful to describe the main components, interconnection and external
 	A. 描述此大系统或项目每个组件的功能，并且标识接口。
 
 	B.  确定本软件产品主要外部接口。（ 注意：在此部分并不进行这些接口的详细描述；对这些接口的详细描述在SRS的其它 部分提供。）
-    
+
     C. 描述相关产品硬件和所使用的外部设备。（  注意：  这只是概述性描述。）
 
 通过方块图来描述大系统或项目的主要组件，互连性以及外部接口将是非常有帮助的。本部分不应提出一个具体的设计解决方案或对解决方案的具体设计约束（具体设计约束将在具体需求章节中描述）。本部分内容是产生设计约束的基础。
@@ -43,7 +43,7 @@ It is very helpful to describe the main components, interconnection and external
 该产品是一个独立的聊天软件，但其客户端需要运行在Android($\ge$5.0.1)系统上。
 \section{软件功能}
 \iffalse  %=====================BEGIN=========================
-Summarizes the major functions that must be implemented through the software, and the functions to be implemented through user operation. Details will be provided in the Specific Requirement, so only a summary (such as a directory list) is needed here. The functions should be organized to make them understandable to the readers, and be appropriate for subsequent design and tests. Diagrams like top-level data flow diagram or object class diagram are recommended to illustrate the relationships among the major requirement groups 
+Summarizes the major functions that must be implemented through the software, and the functions to be implemented through user operation. Details will be provided in the Specific Requirement, so only a summary (such as a directory list) is needed here. The functions should be organized to make them understandable to the readers, and be appropriate for subsequent design and tests. Diagrams like top-level data flow diagram or object class diagram are recommended to illustrate the relationships among the major requirement groups
 
 Sometimes, this section can directly refer to the superior specification of the software that allocate the specific requirements to this software ( if existed ).
 The specific requirements should not be described in this section. But this section is the basis of the specific requirements.
@@ -54,10 +54,10 @@ The specific requirements should not be described in this section. But this sect
 
 本节不应描述具体需求。但本节内容是具体需求章节的基础。
 \fi  %=========================END================================
-该软件的主要功能是进行一对一聊天和多人聊天，包含语音通话和视频聊天功能。同时支持任何人自己创建聊天服务器。
+该软件的主要功能是进行一对一聊天和多人聊天，支持发送文字消息、语音消息、图片表情包。包含语音通话和视频聊天功能。支持自己创建聊天服务器。支持聊天消息多设备漫游。
 \section{用户特征}
 \iffalse  %=====================BEGIN===============================
-List down the basic required characteristics of the user or operator of the system. E.g. the experience, Skill level, required role etc., 
+List down the basic required characteristics of the user or operator of the system. E.g. the experience, Skill level, required role etc.,
 This part should not describe the specific requirements, instead, it provides the basis for the specific requirements.
 
 列出对用户或系统操作者的要求，如：经验，能力，角色等。
@@ -68,7 +68,7 @@ This part should not describe the specific requirements, instead, it provides th
 使用本软件，需要使用者有一定的手机操作能力。
 \section{假设和依赖关系}
 \iffalse  %=========================BEGIN===============================
-List any assumed factors (as opposed to known facts) that could affect the requirements stated in the SRS. These could include third party or commercial components that you plan to use, issues around the development or operating environment, or constraints. The project could be affected if these assumptions are incorrect, are not shared, or change. Also identify any dependencies the project has on external factors, such as software components that you intend to reuse from another project, unless they are already documented elsewhere (for example, in the vision and scope document or the project plan). 
+List any assumed factors (as opposed to known facts) that could affect the requirements stated in the SRS. These could include third party or commercial components that you plan to use, issues around the development or operating environment, or constraints. The project could be affected if these assumptions are incorrect, are not shared, or change. Also identify any dependencies the project has on external factors, such as software components that you intend to reuse from another project, unless they are already documented elsewhere (for example, in the vision and scope document or the project plan).
 
 列出可能影响SRS中需求的所有的假设因素（与已知事实相对而言），包括准备使用的第三方或商业组件，操作和开发环境的问题约束等。如果上述假设不正确、没有被告知或者改变了都将对项目产生影响。列出项目对外部条件的依赖，例如重用其他项目的模块等。如果在其他文档（例如项目计划或范围文档等）里已经描述了，在这里可以不用描述。
-\fi
+\fi 
