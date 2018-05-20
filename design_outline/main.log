@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.3-0.9997.5 (MiKTeX 2.9) (preloaded format=xelatex 2018.4.28)  20 MAY 2018 21:22
+This is XeTeX, Version 3.1415926-2.3-0.9997.5 (MiKTeX 2.9) (preloaded format=xelatex 2018.4.28)  20 MAY 2018 21:28
 entering extended mode
 **main.tex
 
@@ -1442,7 +1442,7 @@ LaTeX Warning: Unused global option(s):
 (C:\Users\qianjxiang\Documents\GitHub\yx_software-engineering-project\design_ou
 tline\main.aux
 
-LaTeX Warning: Label `tab:simpletable' multiply defined.
+LaTeX Warning: Label `fig:figure1' multiply defined.
 
 )
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
@@ -2243,23 +2243,12 @@ Overfull \vbox (7.44269pt too high) has occurred while \output is active []
 )
 (C:\Users\qianjxiang\Documents\GitHub\yx_software-engineering-project\design_ou
 tline\chapters/design-security.tex
-Overfull \hbox (47.84238pt too wide) in paragraph at lines 20--1
-[]\xeCJK@rm/m/n/12.045 如 果 服 务 器 出 现 故 障，| 重 启 一 次�
-��| \EU1/TimesNewRoman(0)/m/n/12.045 »»»> 29d41c134fbbe1596db211db949e2cd563
-4007bb
- []
-
-
 Overfull \vbox (7.44269pt too high) has occurred while \output is active []
 
 
 [22
 
 ]
-Overfull \vbox (7.44269pt too high) has occurred while \output is active []
-
-
-[23]
 第九章
 )
 (C:\Users\qianjxiang\Documents\GitHub\yx_software-engineering-project\design_ou
@@ -2267,7 +2256,7 @@ tline\chapters/design-maintainance.tex
 Overfull \vbox (7.44269pt too high) has occurred while \output is active []
 
 
-[24
+[23
 
 ]
 第十章
@@ -2278,7 +2267,7 @@ tline\main.bbl
 Overfull \vbox (7.44269pt too high) has occurred while \output is active []
 
 
-[25
+[24
 
 ]
 ! Undefined control sequence.
@@ -2299,7 +2288,7 @@ Requested font "Times New Roman/ICU:script=latn;language=DFLT;mapping=tex-text;
 Overfull \vbox (7.44269pt too high) has occurred while \output is active []
 
 
-[26
+[25
 
 ]
 Requested font "Times New Roman/ICU:script=latn;language=DFLT;mapping=tex-text;
@@ -2351,7 +2340,7 @@ Requested font "Times New Roman/ICU:script=latn;language=DFLT;mapping=tex-text;
 Overfull \vbox (7.44269pt too high) has occurred while \output is active []
 
 
-[27
+[26
 
 ])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 71.
@@ -2370,12 +2359,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 33976 strings out of 430478
- 634387 string characters out of 3191502
- 695524 words of memory out of 3000000
- 36487 multiletter control sequences out of 15000+200000
+ 33961 strings out of 430478
+ 634214 string characters out of 3191502
+ 694554 words of memory out of 3000000
+ 36472 multiletter control sequences out of 15000+200000
  13409 words of font info for 110 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
  63i,14n,94p,896b,635s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on main.pdf (29 pages).
+Output written on main.pdf (28 pages).
