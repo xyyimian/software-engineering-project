@@ -1,9 +1,17 @@
 \chapter{接口设计}
 \section{外部接口}
-比如说需要用到支付宝等外部支付系统，接口应当如何封装。
 
-\subsection{支付宝接口}
-详细讲述不同的接口（查询状态、支付交易、获取回执等）
+\subsection{聊天APP接口}
+\begin{itemize}
+  \item 用户输入服务器地址和端口号建立连接
+  \item 用户注册接口
+  \item 用户登录接口
+  \item 用户添加删除联系人接口
+  \item 用户建立会话或群聊接口
+  \item 用户按住说话接口
+  \item 用户呼叫并实时语音聊天接口
+\end{itemize}
+
 
 \section{内部接口}
 客户端
@@ -44,7 +52,7 @@
 	\item ChatServer.Disconnect()\\
 	服务器断开连接
     \item DBManager.SignUp(user, salt, MD5) return status \\
-    数据库模块把注册信息发送给数据库 
+    数据库模块把注册信息发送给数据库
     \item DBManager.SignIn(user, salt, MD5) return status, contacters\\
     数据库模块把登录信息发送给数据库
     \item DBManager.GetContacterList(user) return contacters\\
@@ -54,5 +62,5 @@
     \item DBManager.DeleteLink(user1,user2) return info\\
 	数据库模块某用户删除联系人
 	\item DBManager.FetchUnreceivedMsg(user) return messages\\
-	数据库模块获取离线消息    
-\end{itemize}
+	数据库模块获取离线消息
+\end{itemize} 

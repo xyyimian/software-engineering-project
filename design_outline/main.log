@@ -1,64 +1,32 @@
-<<<<<<< HEAD
-This is XeTeX, Version 3.1415926-2.3-0.9997.5 (MiKTeX 2.9) (preloaded format=xelatex 2018.4.28)  20 MAY 2018 21:28
-=======
-This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6630 64-bit) (preloaded format=xelatex 2018.4.24)  20 MAY 2018 21:39
->>>>>>> 0f0a363ad0b594adb713edc66e8838bba4d8e783
+This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6630 64-bit) (preloaded format=xelatex 2018.3.16)  20 MAY 2018 22:37
 entering extended mode
-**main.tex
-
-(C:\Users\qianjxiang\Documents\GitHub\yx_software-engineering-project\design_ou
-tline\main.tex
-LaTeX2e <2011/06/27>
-Babel <v3.8m> and hyphenation patterns for loaded.
-
-(C:\Users\qianjxiang\Documents\GitHub\yx_software-engineering-project\design_ou
-tline\ustcthesis.cls
+**./main.tex
+(main.tex
+LaTeX2e <2017-04-15>
+Babel <3.18> and hyphenation patterns for 75 language(s) loaded.
+(ustcthesis.cls
 Document Class: ustcthesis 2017/02/26 v2.1.4 USTC thesis template
-<<<<<<< HEAD
-(F:\CTEX\MiKTeX\tex\latex\oberdiek\kvoptions.sty
-Package: kvoptions 2010/12/23 v3.10 Keyval support for LaTeX options (HO)
-
-(F:\CTEX\MiKTeX\tex\latex\graphics\keyval.sty
-Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
-\KV@toks@=\toks14
-)
-(F:\CTEX\MiKTeX\tex\generic\oberdiek\ltxcmds.sty
-Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
-)
-(F:\CTEX\MiKTeX\tex\generic\oberdiek\kvsetkeys.sty
-Package: kvsetkeys 2011/04/07 v1.13 Key value parser (HO)
-
-(F:\CTEX\MiKTeX\tex\generic\oberdiek\infwarerr.sty
-Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
-)
-(F:\CTEX\MiKTeX\tex\generic\oberdiek\etexcmds.sty
-Package: etexcmds 2011/02/16 v1.5 Prefix for e-TeX command names (HO)
-
-(F:\CTEX\MiKTeX\tex\generic\oberdiek\ifluatex.sty
-Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
-=======
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+(F:\latex\MikTex\inst\tex\latex\oberdiek\kvoptions.sty
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+(F:\latex\MikTex\inst\tex\latex\graphics\keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+(F:\latex\MikTex\inst\tex\generic\oberdiek\ltxcmds.sty
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+(F:\latex\MikTex\inst\tex\generic\oberdiek\kvsetkeys.sty
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+(F:\latex\MikTex\inst\tex\generic\oberdiek\infwarerr.sty
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+(F:\latex\MikTex\inst\tex\generic\oberdiek\etexcmds.sty
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+(F:\latex\MikTex\inst\tex\generic\oberdiek\ifluatex.sty
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
->>>>>>> 0f0a363ad0b594adb713edc66e8838bba4d8e783
 Package ifluatex Info: LuaTeX not detected.
 )
 Package etexcmds Info: Could not find \expanded.
@@ -66,131 +34,11 @@ Package etexcmds Info: Could not find \expanded.
 (etexcmds)             that some package has redefined \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 )))
-<<<<<<< HEAD
-(F:\CTEX\MiKTeX\tex\latex\ctex\ctexbook.cls
-Document Class: ctexbook 2011/03/11 v1.02c ctexbook document class
-(F:\CTEX\MiKTeX\tex\latex\ctex\opt\ctex-common-opts.def)
-(F:\CTEX\MiKTeX\tex\latex\ctex\opt\ctex-caption-opts.def
-\c@CTEX@sectiondepth=\count80
-)
-(F:\CTEX\MiKTeX\tex\latex\ctex\opt\ctex-class-opts.def)
-(F:\CTEX\CTeX\tex\latex\ctex\cfg\ctexopts.cfg)
-(F:\CTEX\MiKTeX\tex\latex\ctex\def\ctex-loadclass.def
-(F:\CTEX\MiKTeX\tex\latex\base\book.cls
-Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
-(F:\CTEX\MiKTeX\tex\latex\base\bk10.clo
-File: bk10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
-)
-\c@part=\count81
-\c@chapter=\count82
-\c@section=\count83
-\c@subsection=\count84
-\c@subsubsection=\count85
-\c@paragraph=\count86
-\c@subparagraph=\count87
-\c@figure=\count88
-\c@table=\count89
-\abovecaptionskip=\skip41
-\belowcaptionskip=\skip42
-\bibindent=\dimen102
-))
-(F:\CTEX\MiKTeX\tex\latex\ctex\def\ctex-common.def
-(F:\CTEX\MiKTeX\tex\latex\l3kernel\expl3.sty
-(F:\CTEX\MiKTeX\tex\latex\l3kernel\l3names.sty
-(F:\CTEX\MiKTeX\tex\latex\l3kernel\l3bootstrap.sty
-Package: l3bootstrap 2011/12/29 v3110 L3 Experimental bootstrap code
-)
-Package: l3names 2011/12/30 v3113 L3 Experimental namespace for primitives
-)
-(F:\CTEX\MiKTeX\tex\latex\misc\etex.sty
-Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
-\et@xins=\count90
-)
-Package: expl3 2012/02/26 v3471 L3 Experimental code bundle wrapper
-
-(F:\CTEX\MiKTeX\tex\latex\graphics\color.sty
-Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
-
-(F:\CTEX\MiKTeX\tex\latex\00miktex\color.cfg
-File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
-)
-Package color Info: Driver file: xetex.def on input line 130.
-
-(F:\CTEX\MiKTeX\tex\xelatex\xetex-def\xetex.def
-File: xetex.def 2009/11/22 v0.94 LaTeX color/graphics driver for XeTeX (RRM/JK)
-
-))
-(F:\CTEX\MiKTeX\tex\latex\graphics\graphics.sty
-Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
-
-(F:\CTEX\MiKTeX\tex\latex\graphics\trig.sty
-Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
-)
-(F:\CTEX\MiKTeX\tex\latex\00miktex\graphics.cfg
-File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
-)
-Package graphics Info: Driver file: xetex.def on input line 91.
-)
-(F:\CTEX\MiKTeX\tex\latex\l3kernel\l3basics.sty
-Package: l3basics 2012/02/26 v3460 L3 Experimental basic definitions
-)
-(F:\CTEX\MiKTeX\tex\latex\l3kernel\l3expan.sty
-Package: l3expan 2012/02/26 v3460 L3 Experimental argument expansion
-)
-(F:\CTEX\MiKTeX\tex\latex\l3kernel\l3tl.sty
-Package: l3tl 2012/02/26 v3460 L3 Experimental token lists
-)
-(F:\CTEX\MiKTeX\tex\latex\l3kernel\l3seq.sty
-Package: l3seq 2012/01/09 v3158 L3 Experimental sequences and stacks
-)
-(F:\CTEX\MiKTeX\tex\latex\l3kernel\l3int.sty
-Package: l3int 2012/02/26 v3460 L3 Experimental integers
-\c_max_int=\count91
-\l_tmpa_int=\count92
-\l_tmpb_int=\count93
-\l_tmpc_int=\count94
-\g_tmpa_int=\count95
-\g_tmpb_int=\count96
-)
-(F:\CTEX\MiKTeX\tex\latex\l3kernel\l3quark.sty
-Package: l3quark 2012/02/12 v3384 L3 Experimental quarks
-)
-(F:\CTEX\MiKTeX\tex\latex\l3kernel\l3prg.sty
-Package: l3prg 2012/02/26 v3464 L3 Experimental control structures
-\g_prg_map_int=\count97
-)
-(F:\CTEX\MiKTeX\tex\latex\l3kernel\l3clist.sty
-Package: l3clist 2012/02/26 v3460 L3 Experimental comma separated lists
-)
-(F:\CTEX\MiKTeX\tex\latex\l3kernel\l3token.sty
-Package: l3token 2012/02/26 v3460 L3 Experimental token manipulation
-)
-(F:\CTEX\MiKTeX\tex\latex\l3kernel\l3prop.sty
-Package: l3prop 2012/02/26 v3460 L3 Experimental property lists
-)
-(F:\CTEX\MiKTeX\tex\latex\l3kernel\l3msg.sty
-Package: l3msg 2012/02/26 v3470 L3 Experimental messages
-)
-(F:\CTEX\MiKTeX\tex\latex\l3kernel\l3file.sty
-Package: l3file 2012/02/26 v3464 L3 Experimental file and I/O operations
-\l_iow_stream_int=\count98
-\l_iow_line_length_int=\count99
-\l_iow_target_length_int=\count100
-\l_iow_current_line_int=\count101
-\l_iow_current_word_int=\count102
-\l_iow_current_indentation_int=\count103
-)
-(F:\CTEX\MiKTeX\tex\latex\l3kernel\l3skip.sty
-Package: l3skip 2012/02/26 v3460 L3 Experimental dimensions and skips
-\l_tmpa_dim=\dimen103
-\l_tmpb_dim=\dimen104
-\l_tmpc_dim=\dimen105
-=======
-("C:\Program Files\MiKTeX 2.9\tex\latex\ctex\ctexbook.cls"
-("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\expl3.sty"
+(F:\latex\MikTex\inst\tex\latex\ctex\ctexbook.cls
+(F:\latex\MikTex\inst\tex\latex\l3kernel\expl3.sty
 Package: expl3 2018/03/05 L3 programming layer (loader) 
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\expl3-code.tex"
+(F:\latex\MikTex\inst\tex\latex\l3kernel\expl3-code.tex
 Package: expl3 2018/03/05 L3 programming layer (code)
 \c_max_int=\count79
 \l_tmpa_int=\count80
@@ -208,181 +56,12 @@ Package: expl3 2018/03/05 L3 programming layer (code)
 \c_max_dim=\dimen103
 \l_tmpa_dim=\dimen104
 \l_tmpb_dim=\dimen105
->>>>>>> 0f0a363ad0b594adb713edc66e8838bba4d8e783
 \g_tmpa_dim=\dimen106
 \g_tmpb_dim=\dimen107
+\c_zero_skip=\skip41
+\c_max_skip=\skip42
 \l_tmpa_skip=\skip43
 \l_tmpb_skip=\skip44
-<<<<<<< HEAD
-\l_tmpc_skip=\skip45
-\g_tmpa_skip=\skip46
-\g_tmpb_skip=\skip47
-)
-(F:\CTEX\MiKTeX\tex\latex\l3kernel\l3keys.sty
-Package: l3keys 2011/12/22 v3086 L3 Experimental key-value interfaces
-\g_keyval_level_int=\count104
-\l_keys_choice_int=\count105
-)
-(F:\CTEX\MiKTeX\tex\latex\l3kernel\l3fp.sty
-Package: l3fp 2012/02/06 v3315 L3 Experimental floating-point operations
-\c_one_hundred_million=\count106
-\c_five_hundred_million=\count107
-\c_one_thousand_million=\count108
-\c_fp_pi_by_four_decimal_int=\count109
-\c_fp_pi_by_four_extended_int=\count110
-\c_fp_pi_decimal_int=\count111
-\c_fp_pi_extended_int=\count112
-\c_fp_two_pi_decimal_int=\count113
-\c_fp_two_pi_extended_int=\count114
-\l_fp_count_int=\count115
-\l_fp_div_offset_int=\count116
-\l_fp_exp_integer_int=\count117
-\l_fp_exp_decimal_int=\count118
-\l_fp_exp_extended_int=\count119
-\l_fp_exp_exponent_int=\count120
-\l_fp_input_a_sign_int=\count121
-\l_fp_input_a_integer_int=\count122
-\l_fp_input_a_decimal_int=\count123
-\l_fp_input_a_exponent_int=\count124
-\l_fp_input_b_sign_int=\count125
-\l_fp_input_b_integer_int=\count126
-\l_fp_input_b_decimal_int=\count127
-\l_fp_input_b_exponent_int=\count128
-\l_fp_input_a_extended_int=\count129
-\l_fp_input_b_extended_int=\count130
-\l_fp_mul_a_i_int=\count131
-\l_fp_mul_a_ii_int=\count132
-\l_fp_mul_a_iii_int=\count133
-\l_fp_mul_a_iv_int=\count134
-\l_fp_mul_a_v_int=\count135
-\l_fp_mul_a_vi_int=\count136
-\l_fp_mul_b_i_int=\count137
-\l_fp_mul_b_ii_int=\count138
-\l_fp_mul_b_iii_int=\count139
-\l_fp_mul_b_iv_int=\count140
-\l_fp_mul_b_v_int=\count141
-\l_fp_mul_b_vi_int=\count142
-\l_fp_mul_output_int=\count143
-\l_fp_output_sign_int=\count144
-\l_fp_output_integer_int=\count145
-\l_fp_output_decimal_int=\count146
-\l_fp_output_exponent_int=\count147
-\l_fp_output_extended_int=\count148
-\l_fp_round_position_int=\count149
-\l_fp_round_target_int=\count150
-\l_fp_split_sign_int=\count151
-\l_fp_internal_int=\count152
-\l_fp_trig_octant_int=\count153
-\l_fp_trig_sign_int=\count154
-\l_fp_trig_decimal_int=\count155
-\l_fp_trig_extended_int=\count156
-\l_fp_internal_dim=\dimen108
-\l_fp_internal_skip=\skip48
-)
-(F:\CTEX\MiKTeX\tex\latex\l3kernel\l3box.sty
-Package: l3box 2012/02/18 v3432 L3 Experimental boxes
-\l_tmpb_box=\box26
-\l_box_top_dim=\dimen109
-\l_box_bottom_dim=\dimen110
-\l_box_left_dim=\dimen111
-\l_box_right_dim=\dimen112
-\l_box_top_new_dim=\dimen113
-\l_box_bottom_new_dim=\dimen114
-\l_box_left_new_dim=\dimen115
-\l_box_right_new_dim=\dimen116
-\l_box_internal_box=\box27
-)
-(F:\CTEX\MiKTeX\tex\latex\l3kernel\l3coffins.sty
-Package: l3coffins 2012/02/26 v3460 L3 Experimental coffin code layer
-\l_coffin_internal_box=\box28
-\l_coffin_internal_dim=\dimen117
-\l_coffin_offset_x_dim=\dimen118
-\l_coffin_offset_y_dim=\dimen119
-\l_coffin_x_dim=\dimen120
-\l_coffin_y_dim=\dimen121
-\l_coffin_x_prime_dim=\dimen122
-\l_coffin_y_prime_dim=\dimen123
-\l_coffin_Depth_dim=\dimen124
-\l_coffin_Height_dim=\dimen125
-\l_coffin_TotalHeight_dim=\dimen126
-\l_coffin_Width_dim=\dimen127
-\c_empty_coffin=\box29
-\l_coffin_aligned_coffin=\box30
-\l_coffin_aligned_internal_coffin=\box31
-\l_coffin_bounding_shift_dim=\dimen128
-\l_coffin_left_corner_dim=\dimen129
-\l_coffin_right_corner_dim=\dimen130
-\l_coffin_bottom_corner_dim=\dimen131
-\l_coffin_top_corner_dim=\dimen132
-\l_coffin_scaled_total_height_dim=\dimen133
-\l_coffin_scaled_width_dim=\dimen134
-\l_coffin_display_coffin=\box32
-\l_coffin_display_coord_coffin=\box33
-\l_coffin_display_pole_coffin=\box34
-\l_coffin_display_offset_dim=\dimen135
-\l_coffin_display_x_dim=\dimen136
-\l_coffin_display_y_dim=\dimen137
-)
-(F:\CTEX\MiKTeX\tex\latex\l3kernel\l3color.sty
-Package: l3color 2011/09/07 v2776 L3 Experimental colour support
-)
-(F:\CTEX\MiKTeX\tex\latex\l3kernel\l3luatex.sty
-Package: l3luatex 2012/02/09 v3355 L3 Experimental LuaTeX-specific functions
-\g_cctab_allocate_int=\count157
-\g_cctab_stack_int=\count158
-))
-(F:\CTEX\MiKTeX\tex\latex\etoolbox\etoolbox.sty
-Package: etoolbox 2011/01/03 v2.1 e-TeX tools for LaTeX
-\etb@tempcnta=\count159
-)
-(F:\CTEX\MiKTeX\tex\generic\oberdiek\ifpdf.sty
-Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
-Package ifpdf Info: pdfTeX in PDF mode is not detected.
-)
-(F:\CTEX\MiKTeX\tex\generic\ifxetex\ifxetex.sty
-Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
-)
-(F:\CTEX\MiKTeX\tex\latex\tools\indentfirst.sty
-Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
-)
-(F:\CTEX\MiKTeX\tex\latex\base\fix-cm.sty
-Package: fix-cm 2006/09/13 v1.1m fixes to LaTeX
-
-(F:\CTEX\MiKTeX\tex\latex\base\ts1enc.def
-File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
-))
-(F:\CTEX\MiKTeX\tex\latex\ctex\engine\ctex-xecjk-engine.def
-(F:\CTEX\MiKTeX\tex\latex\savesym\savesym.sty
-
-LaTeX Warning: You have requested package `savesym',
-               but the package provides `savesymbol'.
-
-Package: savesymbol 2003/06/01 v1.1 Saves and restores symbols
-) (F:\CTEX\MiKTeX\tex\xelatex\xecjk\xeCJK.sty
-Package: xeCJK 2012/01/31 2.4.5 package for typesetting CJK scripts with XeLaTe
-X
-
-(F:\CTEX\MiKTeX\tex\latex\xkeyval\xkeyval.sty
-Package: xkeyval 2008/08/13 v2.6a package option processing (HA)
-
-(F:\CTEX\MiKTeX\tex\generic\xkeyval\xkeyval.tex
-\XKV@toks=\toks15
-\XKV@tempa@toks=\toks16
-\XKV@depth=\count160
-File: xkeyval.tex 2008/08/13 v2.6a key=value parser (HA)
-))
-(F:\CTEX\MiKTeX\tex\latex\fontspec\fontspec.sty
-Package: fontspec 2011/09/18 v2.2a Advanced font selection for XeLaTeX/LuaLaTeX
-
-
-(F:\CTEX\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
-Package: xparse 2012/02/26 v3471 L3 Experimental document command parser
-\l_xparse_current_arg_int=\count161
-\l_xparse_m_args_int=\count162
-\l_xparse_mandatory_args_int=\count163
-\l_xparse_processor_int=\count164
-\l_xparse_v_nesting_int=\count165
-=======
 \g_tmpa_skip=\skip45
 \g_tmpb_skip=\skip46
 \c_zero_muskip=\muskip10
@@ -498,13 +177,13 @@ Package: xparse 2012/02/26 v3471 L3 Experimental document command parser
 \l__coffin_scaled_total_height_dim=\dimen131
 \l__coffin_scaled_width_dim=\dimen132
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3xdvipdfmx.def"
+(F:\latex\MikTex\inst\tex\latex\l3kernel\l3xdvipdfmx.def
 File: l3xdvidpfmx.def 2017/03/18 v L3 Experimental driver: xdvipdfmx
 \g__driver_image_int=\count157
 ))
 Document Class: ctexbook 2018/01/28 v2.4.12 Chinese adapter for class book (CTE
 X)
-("C:\Program Files\MiKTeX 2.9\tex\latex\l3packages\xparse\xparse.sty"
+(F:\latex\MikTex\inst\tex\latex\l3packages\xparse\xparse.sty
 Package: xparse 2018/02/21 L3 Experimental document command parser
 \l__xparse_current_arg_int=\count158
 \g__xparse_grabber_int=\count159
@@ -512,24 +191,24 @@ Package: xparse 2018/02/21 L3 Experimental document command parser
 \l__xparse_mandatory_args_int=\count161
 \l__xparse_v_nesting_int=\count162
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\l3packages\l3keys2e\l3keys2e.sty"
+(F:\latex\MikTex\inst\tex\latex\l3packages\l3keys2e\l3keys2e.sty
 Package: l3keys2e 2018/02/21 LaTeX2e option processing using LaTeX3 keys
 )
 \g__file_internal_ior=\read1
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\ctex\ctexhook.sty"
+(F:\latex\MikTex\inst\tex\latex\ctex\ctexhook.sty
 Package: ctexhook 2018/01/28 v2.4.12 Document and package hooks (CTEX)
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\ctex\ctexpatch.sty"
+(F:\latex\MikTex\inst\tex\latex\ctex\ctexpatch.sty
 Package: ctexpatch 2018/01/28 v2.4.12 Patching commands (CTEX)
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\fix-cm.sty"
+(F:\latex\MikTex\inst\tex\latex\base\fix-cm.sty
 Package: fix-cm 2015/01/14 v1.1t fixes to LaTeX
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1enc.def"
+(F:\latex\MikTex\inst\tex\latex\base\ts1enc.def
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 ))
-("C:\Program Files\MiKTeX 2.9\tex\latex\ms\everysel.sty"
+(F:\latex\MikTex\inst\tex\latex\ms\everysel.sty
 Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 )
 \l__ctex_tmp_int=\count163
@@ -537,12 +216,12 @@ Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 \l__ctex_tmp_dim=\dimen133
 \g__ctex_font_size_flag=\count164
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\ctex\config\ctexopts.cfg"
+(F:\latex\MikTex\inst\tex\latex\ctex\config\ctexopts.cfg
 File: ctexopts.cfg 2018/01/28 v2.4.12 Option configuration file (CTEX)
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\book.cls"
+(F:\latex\MikTex\inst\tex\latex\base\book.cls
 Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\bk12.clo"
+(F:\latex\MikTex\inst\tex\latex\base\bk12.clo
 File: bk12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count165
@@ -558,13 +237,13 @@ File: bk12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip48
 \bibindent=\dimen134
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\ctex\engine\ctex-engine-xetex.def"
+(F:\latex\MikTex\inst\tex\latex\ctex\engine\ctex-engine-xetex.def
 File: ctex-engine-xetex.def 2018/01/28 v2.4.12 XeLaTeX adapter (CTEX)
 
-("C:\Program Files\MiKTeX 2.9\tex\xelatex\xecjk\xeCJK.sty"
+(F:\latex\MikTex\inst\tex\xelatex\xecjk\xeCJK.sty
 Package: xeCJK 2018/04/07 v3.7.0 Typesetting CJK scripts with XeLaTeX
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\l3packages\xtemplate\xtemplate.sty"
+(F:\latex\MikTex\inst\tex\latex\l3packages\xtemplate\xtemplate.sty
 Package: xtemplate 2018/02/21 L3 Experimental prototype document functions
 \l__xtemplate_tmp_dim=\dimen135
 \l__xtemplate_tmp_int=\count174
@@ -792,10 +471,10 @@ Package: xtemplate 2018/02/21 L3 Experimental prototype document functions
 .................................................
 \l__xeCJK_verb_exspace_skip=\skip55
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\fontspec\fontspec.sty"
+(F:\latex\MikTex\inst\tex\latex\fontspec\fontspec.sty
 Package: fontspec 2017/11/09 v2.6g Font selection for XeLaTeX and LuaLaTeX
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\fontspec\fontspec-xetex.sty"
+(F:\latex\MikTex\inst\tex\latex\fontspec\fontspec-xetex.sty
 Package: fontspec-xetex 2017/11/09 v2.6g Font selection for XeLaTeX and LuaLaTe
 X
 \l__fontspec_script_int=\count186
@@ -810,10 +489,10 @@ X
 \l__fontspec_tmpb_dim=\dimen165
 \l__fontspec_tmpc_dim=\dimen166
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+(F:\latex\MikTex\inst\tex\latex\base\fontenc.sty
 Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\tuenc.def"
+(F:\latex\MikTex\inst\tex\latex\base\tuenc.def
 File: tuenc.def 2017/04/05 v2.0i Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding TU on input line 82.
 ))
@@ -988,7 +667,7 @@ LaTeX Font Info:    Redeclaring font encoding TU on input line 82.
 . Defining command \UndeclareComposite with sig. 'mm' on line 3706.
 .................................................
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\fontspec\fontspec.cfg")
+(F:\latex\MikTex\inst\tex\latex\fontspec\fontspec.cfg)
 LaTeX Info: Redefining \itshape on input line 3891.
 LaTeX Info: Redefining \slshape on input line 3896.
 LaTeX Info: Redefining \scshape on input line 3901.
@@ -1078,13 +757,13 @@ LaTeX Info: Redefining \- on input line 4015.
 . Redefining command \fontfamily with sig. 'm' on line 4628.
 .................................................
 
-("C:\Program Files\MiKTeX 2.9\tex\xelatex\xecjk\xeCJK.cfg"
+(F:\latex\MikTex\inst\tex\xelatex\xecjk\xeCJK.cfg
 File: xeCJK.cfg 2018/04/07 v3.7.0 Configuration file for xeCJK package
 ))
-("C:\Program Files\MiKTeX 2.9\tex\xelatex\xecjk\xeCJKfntef.sty"
+(F:\latex\MikTex\inst\tex\xelatex\xecjk\xeCJKfntef.sty
 Package: xeCJKfntef 2018/04/07 v3.7.0 xeCJK font effect
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\ulem\ulem.sty"
+(F:\latex\MikTex\inst\tex\latex\ulem\ulem.sty
 \UL@box=\box43
 \UL@hyphenbox=\box44
 \UL@skip=\skip56
@@ -1096,15 +775,15 @@ Package: xeCJKfntef 2018/04/07 v3.7.0 xeCJK font effect
 Package: ulem 2012/05/18
 \ULdepth=\dimen169
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\environ\environ.sty"
+(F:\latex\MikTex\inst\tex\latex\environ\environ.sty
 Package: environ 2014/05/04 v0.3 A new way to define environments
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\trimspaces\trimspaces.sty"
+(F:\latex\MikTex\inst\tex\latex\trimspaces\trimspaces.sty
 Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 )
 \@envbody=\toks16
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\cjk\CJKfntef.sty"
+(F:\latex\MikTex\inst\tex\latex\cjk\CJKfntef.sty
 Package: CJKfntef 2015/04/18 4.8.4
 \CJK@fntefSkip=\skip57
 \CJK@nest=\count195
@@ -1174,174 +853,152 @@ Package: CJKfntef 2015/04/18 4.8.4
 . Redefining environment 'CJKfilltwosides' with sig. 'O{c}m' on line 1053.
 .................................................
 \c__xeCJK_filll_skip=\skip59
->>>>>>> 0f0a363ad0b594adb713edc66e8838bba4d8e783
 )
-\l_fontspec_script_int=\count166
-\l_fontspec_language_int=\count167
-\l_fontspec_strnum_int=\count168
-\l_fontspec_tmpa_dim=\dimen138
-\l_fontspec_tmpb_dim=\dimen139
-\l_fontspec_tmpc_dim=\dimen140
-Variant \tl_gset:cV already defined; not changing it on line 66
-
-(F:\CTEX\MiKTeX\tex\latex\fontspec\fontspec-patches.sty
-Package: fontspec-patches 2011/09/18 v2.2a Advanced font selection for XeLaTeX/
-LuaLaTeX
-
-(F:\CTEX\MiKTeX\tex\latex\base\fixltx2e.sty
-Package: fixltx2e 2006/09/13 v1.1m fixes to LaTeX
-LaTeX Info: Redefining \em on input line 420.
+\ccwd=\dimen173
+\l__ctex_ccglue_skip=\skip60
 )
-LaTeX Info: Redefining \em on input line 22.
-LaTeX Info: Redefining \emph on input line 29.
-LaTeX Info: Redefining \- on input line 32.
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \ctexset with sig. '' on line 388.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \CTEXsetup with sig. '+o>{\TrimSpaces }m' on line 394.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \CTEXoptions with sig. '+o' on line 400.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \CTEXsetfont with sig. '' on line 418.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \ziju with sig. 'm' on line 490.
+.................................................
+\l__ctex_ziju_dim=\dimen174
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \CTEXindent with sig. '' on line 531.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \CTEXnoindent with sig. '' on line 537.
+.................................................
 
-<<<<<<< HEAD
-*************************************************
-* LaTeX warning: "xparse/redefine-command"
-* 
-* Redefining document command \oldstylenums with arg. spec. 'm' on line 107.
-*************************************************
-=======
-("C:\Program Files\MiKTeX 2.9\tex\latex\zhnumber\zhnumber.sty"
+(F:\latex\MikTex\inst\tex\latex\zhnumber\zhnumber.sty
 Package: zhnumber 2018/01/28 v2.6 Typesetting numbers with Chinese glyphs
->>>>>>> 0f0a363ad0b594adb713edc66e8838bba4d8e783
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining document command \liningnums with arg. spec. 'm' on line 111.
-.................................................
-) (F:\CTEX\MiKTeX\tex\latex\fontspec\fontspec-xetex.sty
-Package: fontspec-xetex 2011/09/18 v2.2a Advanced font selection for XeLaTeX/Lu
-aLaTeX
-
-(F:\CTEX\MiKTeX\tex\latex\base\fontenc.sty
-Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
-
-(F:\CTEX\MiKTeX\tex\latex\euenc\eu1enc.def
-File: eu1enc.def 2010/05/27 v0.1h Experimental Unicode font encodings
-)
-LaTeX Font Info:    Try loading font information for EU1+lmr on input line 100.
-
-
-(F:\CTEX\MiKTeX\tex\latex\euenc\eu1lmr.fd
-File: eu1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-Requested font "[lmroman10-regular]:mapping=tex-text" at 10.0pt
- -> F:/CTEX/MiKTeX/fonts/opentype/public/lm/lmroman10-regular.otf
-)
-(F:\CTEX\MiKTeX\tex\xelatex\xunicode\xunicode.sty
-File: xunicode.sty 2011/09/09 v0.981 provides access to latin accents and many 
-other characters in Unicode lower plane
-
-(F:\CTEX\MiKTeX\tex\latex\tipa\t3enc.def
-File: t3enc.def 2001/12/31 T3 encoding
-Requested font "[lmromanslant10-regular]:mapping=tex-text" at 10.0pt
- -> F:/CTEX/MiKTeX/fonts/opentype/public/lm/lmromanslant10-regular.otf
-Requested font "[lmroman10-italic]:mapping=tex-text" at 10.0pt
- -> F:/CTEX/MiKTeX/fonts/opentype/public/lm/lmroman10-italic.otf
-Requested font "[lmroman10-bold]:mapping=tex-text" at 10.0pt
- -> F:/CTEX/MiKTeX/fonts/opentype/public/lm/lmroman10-bold.otf
-LaTeX Font Info:    Try loading font information for EU1+lmss on input line 357
-.
-
-(F:\CTEX\MiKTeX\tex\latex\euenc\eu1lmss.fd
-File: eu1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-Requested font "[lmsans10-regular]:mapping=tex-text" at 10.0pt
- -> F:/CTEX/MiKTeX/fonts/opentype/public/lm/lmsans10-regular.otf
-)
-\tipaTiiicode=\count169
-\tipasavetokens=\toks17
-\tipachecktokens=\toks18
-
-(F:\CTEX\MiKTeX\tex\latex\graphics\graphicx.sty
-Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
-\Gin@req@height=\dimen141
-\Gin@req@width=\dimen142
-))
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining document command \fontspec with arg. spec. 'O{}m' on line 39.
+. Defining command \zhnumber with sig. '+o+m' on line 50.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining document command \setmainfont with arg. spec. 'O{}m' on line 43.
+. Defining command \zhnumberwithoptions with sig. '+m+m' on line 57.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining document command \setsansfont with arg. spec. 'O{}m' on line 47.
+. Defining command \zhnum with sig. '+o+m' on line 111.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining document command \setmonofont with arg. spec. 'O{}m' on line 51.
+. Defining command \zhnumwithoptions with sig. '+m+m' on line 118.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining document command \setmathrm with arg. spec. 'O{}m' on line 59.
+. Defining command \zhdig with sig. '+o+m' on line 295.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining document command \setboldmathrm with arg. spec. 'O{}m' on line 62.
+. Defining command \zhdigwithoptions with sig. '+m+m' on line 302.
 .................................................
-<<<<<<< HEAD
-=======
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \zhdigits with sig. '+s+o+m' on line 316.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \zhdigitswithoptions with sig. '+m+m+m' on line 323.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \zhdate with sig. '+s+m' on line 382.
+.................................................
+\l__zhnum_scale_int=\count196
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \zhnumExtendScaleMap with sig. '>{\TrimSpaces }+o+m' on
+. line 504.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \zhnumsetup with sig. '+m' on line 934.
+.................................................
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\zhnumber\zhnumber-utf8.cfg"
+(F:\latex\MikTex\inst\tex\latex\zhnumber\zhnumber-utf8.cfg
 File: zhnumber-utf8.cfg 2018/01/28 v2.6 Chinese numerals with UTF8 encoding
 ))
->>>>>>> 0f0a363ad0b594adb713edc66e8838bba4d8e783
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining document command \setmathsf with arg. spec. 'O{}m' on line 65.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining document command \setmathtt with arg. spec. 'O{}m' on line 68.
+. Defining command \CTEXnumber with sig. 'mm' on line 554.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining document command \newfontfamily with arg. spec. 'mO{}m' on line 84.
+. Defining command \CTEXdigits with sig. 'mm' on line 556.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining document command \newfontface with arg. spec. 'mO{}m' on line 87.
+. Defining command \ctex_assign_heading_name:nn with sig. 'm>{\SplitArgument
+. {\c_one }{,}}+m' on line 681.
 .................................................
-<<<<<<< HEAD
-=======
+\l__ctex_heading_skip=\skip61
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \partmark with sig. 'm' on line 728.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \refstepcounter with sig. 'm' on line 1323.
+.................................................
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\ctex\scheme\ctex-scheme-chinese-book.de
-f"
+(F:\latex\MikTex\inst\tex\latex\ctex\scheme\ctex-scheme-chinese-book.def
 File: ctex-scheme-chinese-book.def 2018/01/28 v2.4.12 Chinese scheme for book (
 CTEX)
- ("C:\Program Files\MiKTeX 2.9\tex\latex\ctex\config\ctex-name-utf8.cfg"
+
+(F:\latex\MikTex\inst\tex\latex\ctex\config\ctex-name-utf8.cfg
 File: ctex-name-utf8.cfg 2018/01/28 v2.4.12 Caption with encoding UTF8 (CTEX)
 ))
->>>>>>> 0f0a363ad0b594adb713edc66e8838bba4d8e783
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining document command \defaultfontfeatures with arg. spec. 'm' on line
-. 91.
+. Defining command \zihao with sig. 'm' on line 1326.
 .................................................
-<<<<<<< HEAD
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining document command \addfontfeatures with arg. spec. 'm' on line 107.
-=======
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\ctex\ctex-cs4size.clo"
+(F:\latex\MikTex\inst\tex\latex\ctex\ctex-cs4size.clo
 File: ctex-cs4size.clo 2018/01/28 v2.4.12 cs4size option (CTEX)
 )
 .................................................
@@ -1350,12 +1007,11 @@ File: ctex-cs4size.clo 2018/01/28 v2.4.12 cs4size option (CTEX)
 . Defining command \CTeX with sig. '' on line 1430.
 .................................................
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\ctex\fontset\ctex-fontset-windows.def"
+(F:\latex\MikTex\inst\tex\latex\ctex\fontset\ctex-fontset-windows.def
 File: ctex-fontset-windows.def 2018/01/28 v2.4.12 Windows fonts definition (CTE
 X)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\ctex\fontset\ctex-fontset-windowsnew.de
-f"
+(F:\latex\MikTex\inst\tex\latex\ctex\fontset\ctex-fontset-windowsnew.def
 File: ctex-fontset-windowsnew.def 2018/01/28 v2.4.12 Windows fonts definition f
 or Vista or later version (CTEX)
 \g__fontspec_family_SimSun_int=\count197
@@ -1373,266 +1029,120 @@ or Vista or later version (CTEX)
 . fontspec info: "no-font-shape"
 . 
 . Could not resolve font "SimSun/BI" (it probably doesn't exist).
->>>>>>> 0f0a363ad0b594adb713edc66e8838bba4d8e783
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'SimSun(0)' created for font 'SimSun' with options
+. [Script={CJK},BoldFont={SimHei},ItalicFont={KaiTi}].
+.  
+.  This font family consists of the following NFSS series/shapes:
+.  
+. - 'normal' (m/n) with NFSS spec.: <->"SimSun/OT:script=hani;language=DFLT;"
+. - 'small caps'  (m/sc) with NFSS spec.: 
+. - 'bold' (bx/n) with NFSS spec.: <->"SimHei/OT:script=hani;language=DFLT;"
+. - 'bold small caps'  (bx/sc) with NFSS spec.: 
+. - 'italic' (m/it) with NFSS spec.: <->"KaiTi/OT:script=hani;language=DFLT;"
+. - 'italic small caps'  (m/itsc) with NFSS spec.: 
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining document command \newfontfeature with arg. spec. 'mm' on line 118.
+. Defining command \songti with sig. '' on line 111.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining document command \newAATfeature with arg. spec. 'mmmm' on line 125.
+. Defining command \heiti with sig. '' on line 112.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining document command \newICUfeature with arg. spec. 'mmm' on line 132.
+. Defining command \fangsong with sig. '' on line 113.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining document command \aliasfontfeature with arg. spec. 'mm' on line
-. 159.
+. Defining command \kaishu with sig. '' on line 114.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining document command \aliasfontfeatureoption with arg. spec. 'mmm' on
-. line 164.
+. Defining command \lishu with sig. '' on line 115.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining document command \newfontscript with arg. spec. 'mm' on line 169.
+. Defining command \youyuan with sig. '' on line 116.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining document command \newfontlanguage with arg. spec. 'mm' on line 192.
+. Defining command \yahei with sig. '' on line 117.
 .................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining document command \DeclareFontsExtensions with arg. spec. 'm' on
-. line 211.
-.................................................
-<<<<<<< HEAD
-Variant \prop_gput:cnV already defined; not changing it on line 485
-Variant \prop_gput:cnx already defined; not changing it on line 486
-Variant \keys_set:nx already defined; not changing it on line 963
-\c@fontspec_tmp_int=\count170
-LaTeX Info: Redefining \itshape on input line 1881.
-LaTeX Info: Redefining \slshape on input line 1885.
-LaTeX Info: Redefining \scshape on input line 1889.
-LaTeX Info: Redefining \upshape on input line 1893.
-
-(F:\CTEX\MiKTeX\tex\latex\fontspec\fontspec.cfg)))
-\xeCJK@cnta=\count171
-\xeCJK@cntb=\count172
-\xeCJK@cntc=\count173
-\xeCJK@cntd=\count174
-\xeCJK@cnte=\count175
-\xeCJK@dima=\dimen143
-LaTeX Info: Redefining \normalfont on input line 886.
-LaTeX Info: Redefining \rmfamily on input line 895.
-LaTeX Info: Redefining \sffamily on input line 899.
-LaTeX Info: Redefining \ttfamily on input line 903.
-\xeCJK@featureadded=\count176
-\g_xecjk_exspace_dim=\dimen144
-)
-(F:\CTEX\MiKTeX\tex\latex\ctex\engine\ctex-cjk-common.def
-\ccwd=\dimen145
-)
-(F:\CTEX\MiKTeX\tex\latex\ctex\fontset\ctex-xecjk-winfonts.def))
-\CTEX@q=\count177
-\CTEX@r=\count178
-=======
-))) ("C:\Program Files\MiKTeX 2.9\tex\latex\ctex\config\ctex.cfg"
+)))
+(F:\latex\MikTex\inst\tex\latex\ctex\config\ctex.cfg
 File: ctex.cfg 2018/01/28 v2.4.12 Configuration file (CTEX)
->>>>>>> 0f0a363ad0b594adb713edc66e8838bba4d8e783
 )
-(F:\CTEX\MiKTeX\tex\latex\ctex\def\ctex-caption.def)
-(F:\CTEX\MiKTeX\tex\latex\ctex\def\ctex-class.def
-Requested font "[lmroman10-regular]:mapping=tex-text" at 10.54pt
- -> F:/CTEX/MiKTeX/fonts/opentype/public/lm/lmroman10-regular.otf
-)
-(F:\CTEX\MiKTeX\tex\latex\ctex\def\ctex-book.def))
-(F:\CTEX\MiKTeX\tex\latex\ctex\def\ctex-utf8.def)
-(F:\CTEX\MiKTeX\tex\latex\ctex\cfg\ctexcap.cfg
-(F:\CTEX\MiKTeX\tex\latex\ctex\cfg\ctexcap-utf8.cfg))
-(F:\CTEX\MiKTeX\tex\latex\ctex\cfg\ctex.cfg)
-
-LaTeX Warning: You have requested, on input line 56, version
-               `2015/05/14' of document class ctexbook,
-               but only version
-               `2011/03/11 v1.02c ctexbook document class'
-               is available.
-
-
-! Class ustcthesis Error: Requiring ctex 2.0 or later version!
-(ustcthesis)              Please update the package using your
-(ustcthesis)              TeX package manager or from CTAN .
-
-See the ustcthesis class documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.65 }
-      
-See ustcthesis.pdf for more detailed update guide. 
-
-Requested font "Times New Roman" at 10.54pt
- -> C:/WINDOWS/Fonts/times.ttf
-Requested font "Times New Roman/ICU" at 10.54pt
- -> C:/WINDOWS/Fonts/times.ttf
-\g_fontspec_family_Times New Roman_int=\count179
-Requested font "Times New Roman/B/ICU" at 10.54pt
- -> C:/WINDOWS/Fonts/timesbd.ttf
-Requested font "Times New Roman/B/B/ICU" at 10.54pt
- -> C:/WINDOWS/Fonts/timesbd.ttf
-Requested font "Times New Roman/I/ICU" at 10.54pt
- -> C:/WINDOWS/Fonts/timesi.ttf
-Requested font "Times New Roman/I/I/ICU" at 10.54pt
- -> C:/WINDOWS/Fonts/timesi.ttf
-Requested font "Times New Roman/BI/ICU" at 10.54pt
- -> C:/WINDOWS/Fonts/timesbi.ttf
-Requested font "Times New Roman/BI/BI/ICU" at 10.54pt
- -> C:/WINDOWS/Fonts/timesbi.ttf
+\g__fontspec_family_TimesNewRoman_int=\count198
 .................................................
 . fontspec info: "defining-font"
 . 
 . Font family 'TimesNewRoman(0)' created for font 'Times New Roman' with
-. options [Ligatures=TeX,].
-. 
-. This font family consists of the following shapes:
-. 
-. * 'normal' with NFSS spec.:
-. <->"Times New Roman/ICU:script=latn;language=DFLT;mapping=tex-text;"
-. 
-. * 'small caps' with NFSS spec.:
-. <->"Times New Roman/ICU:script=latn;language=DFLT;mapping=tex-text;+smcp;"
-. 
-. * 'bold' with NFSS spec.:
-. <->"Times New Roman/B/ICU:script=latn;language=DFLT;mapping=tex-text;"
-. 
-. * 'bold small caps' with NFSS spec.:
-. <->"Times New Roman/B/ICU:script=latn;language=DFLT;mapping=tex-text;+smcp;"
-. 
-. * 'italic' with NFSS spec.:
-. <->"Times New Roman/I/ICU:script=latn;language=DFLT;mapping=tex-text;"
-. 
-. * 'italic small caps' with NFSS spec.:
-. <->"Times New Roman/I/ICU:script=latn;language=DFLT;mapping=tex-text;+smcp;"
-. 
-. * 'bold italic' with NFSS spec.:
-. <->"Times New Roman/BI/ICU:script=latn;language=DFLT;mapping=tex-text;"
-. 
-. * 'bold italic small caps' with NFSS spec.:
-. <->"Times New
-. Roman/BI/ICU:script=latn;language=DFLT;mapping=tex-text;+smcp;"
+. options [Ligatures=TeX].
+.  
+.  This font family consists of the following NFSS series/shapes:
+.  
+. - 'normal' (m/n) with NFSS spec.: <->"Times New
+. Roman/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'small caps'  (m/sc) with NFSS spec.: <->"Times New
+. Roman/OT:script=latn;language=DFLT;+smcp;mapping=tex-text;"
+. - 'bold' (bx/n) with NFSS spec.: <->"Times New
+. Roman/B/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'bold small caps'  (bx/sc) with NFSS spec.: <->"Times New
+. Roman/B/OT:script=latn;language=DFLT;+smcp;mapping=tex-text;"
+. - 'italic' (m/it) with NFSS spec.: <->"Times New
+. Roman/I/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'italic small caps'  (m/itsc) with NFSS spec.: <->"Times New
+. Roman/I/OT:script=latn;language=DFLT;+smcp;mapping=tex-text;"
+. - 'bold italic' (bx/it) with NFSS spec.: <->"Times New
+. Roman/BI/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'bold italic small caps'  (bx/itsc) with NFSS spec.: <->"Times New
+. Roman/BI/OT:script=latn;language=DFLT;+smcp;mapping=tex-text;"
 .................................................
-Requested font "Times New Roman/ICU:script=latn;language=DFLT;mapping=tex-text;
-" at 10.54pt
- -> C:/WINDOWS/Fonts/times.ttf
-Requested font "Arial" at 10.54pt
- -> C:/WINDOWS/Fonts/arial.ttf
-Requested font "Arial/ICU" at 10.54pt
- -> C:/WINDOWS/Fonts/arial.ttf
-\g_fontspec_family_Arial_int=\count180
-Requested font "Arial/B/ICU" at 10.54pt
- -> C:/WINDOWS/Fonts/arialbd.ttf
-Requested font "Arial/B/B/ICU" at 10.54pt
- -> C:/WINDOWS/Fonts/arialbd.ttf
-Requested font "Arial/I/ICU" at 10.54pt
- -> C:/WINDOWS/Fonts/ariali.ttf
-Requested font "Arial/I/I/ICU" at 10.54pt
- -> C:/WINDOWS/Fonts/ariali.ttf
-Requested font "Arial/BI/ICU" at 10.54pt
- -> C:/WINDOWS/Fonts/arialbi.ttf
-Requested font "Arial/BI/BI/ICU" at 10.54pt
- -> C:/WINDOWS/Fonts/arialbi.ttf
+LaTeX Info: Redefining \rmfamily on input line 66.
+\g__fontspec_family_Arial_int=\count199
 .................................................
 . fontspec info: "defining-font"
 . 
 . Font family 'Arial(0)' created for font 'Arial' with options
-. [Ligatures=TeX,].
-. 
-. This font family consists of the following shapes:
-. 
-. * 'normal' with NFSS spec.:
-. <->"Arial/ICU:script=latn;language=DFLT;mapping=tex-text;"
-. 
-. * 'small caps' with NFSS spec.:
-. <->"Arial/ICU:script=latn;language=DFLT;mapping=tex-text;+smcp;"
-. 
-. * 'bold' with NFSS spec.:
-. <->"Arial/B/ICU:script=latn;language=DFLT;mapping=tex-text;"
-. 
-. * 'bold small caps' with NFSS spec.:
-. <->"Arial/B/ICU:script=latn;language=DFLT;mapping=tex-text;+smcp;"
-. 
-. * 'italic' with NFSS spec.:
-. <->"Arial/I/ICU:script=latn;language=DFLT;mapping=tex-text;"
-. 
-. * 'italic small caps' with NFSS spec.:
-. <->"Arial/I/ICU:script=latn;language=DFLT;mapping=tex-text;+smcp;"
-. 
-. * 'bold italic' with NFSS spec.:
-. <->"Arial/BI/ICU:script=latn;language=DFLT;mapping=tex-text;"
-. 
-. * 'bold italic small caps' with NFSS spec.:
-. <->"Arial/BI/ICU:script=latn;language=DFLT;mapping=tex-text;+smcp;"
+. [Ligatures=TeX].
+.  
+.  This font family consists of the following NFSS series/shapes:
+.  
+. - 'normal' (m/n) with NFSS spec.:
+. <->"Arial/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'small caps'  (m/sc) with NFSS spec.:
+. <->"Arial/OT:script=latn;language=DFLT;+smcp;mapping=tex-text;"
+. - 'bold' (bx/n) with NFSS spec.:
+. <->"Arial/B/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'bold small caps'  (bx/sc) with NFSS spec.:
+. <->"Arial/B/OT:script=latn;language=DFLT;+smcp;mapping=tex-text;"
+. - 'italic' (m/it) with NFSS spec.:
+. <->"Arial/I/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'italic small caps'  (m/itsc) with NFSS spec.:
+. <->"Arial/I/OT:script=latn;language=DFLT;+smcp;mapping=tex-text;"
+. - 'bold italic' (bx/it) with NFSS spec.:
+. <->"Arial/BI/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'bold italic small caps'  (bx/itsc) with NFSS spec.:
+. <->"Arial/BI/OT:script=latn;language=DFLT;+smcp;mapping=tex-text;"
 .................................................
-Requested font "Courier New" at 10.54pt
- -> C:/WINDOWS/Fonts/cour.ttf
-Requested font "Courier New/ICU" at 10.54pt
- -> C:/WINDOWS/Fonts/cour.ttf
-\g_fontspec_family_Courier New_int=\count181
-Requested font "Courier New/B/ICU" at 10.54pt
- -> C:/WINDOWS/Fonts/courbd.ttf
-Requested font "Courier New/B/B/ICU" at 10.54pt
- -> C:/WINDOWS/Fonts/courbd.ttf
-Requested font "Courier New/I/ICU" at 10.54pt
- -> C:/WINDOWS/Fonts/couri.ttf
-Requested font "Courier New/I/I/ICU" at 10.54pt
- -> C:/WINDOWS/Fonts/couri.ttf
-Requested font "Courier New/BI/ICU" at 10.54pt
- -> C:/WINDOWS/Fonts/courbi.ttf
-Requested font "Courier New/BI/BI/ICU" at 10.54pt
- -> C:/WINDOWS/Fonts/courbi.ttf
+LaTeX Info: Redefining \sffamily on input line 67.
+\g__fontspec_family_CourierNew_int=\count266
 .................................................
 . fontspec info: "defining-font"
 . 
 . Font family 'CourierNew(0)' created for font 'Courier New' with options
-<<<<<<< HEAD
-. [Ligatures=TeX,].
-. 
-. This font family consists of the following shapes:
-. 
-. * 'normal' with NFSS spec.:
-. <->"Courier New/ICU:script=latn;language=DFLT;mapping=tex-text;"
-. 
-. * 'bold' with NFSS spec.:
-. <->"Courier New/B/ICU:script=latn;language=DFLT;mapping=tex-text;"
-. 
-. * 'italic' with NFSS spec.:
-. <->"Courier New/I/ICU:script=latn;language=DFLT;mapping=tex-text;"
-. 
-. * 'bold italic' with NFSS spec.:
-. <->"Courier New/BI/ICU:script=latn;language=DFLT;mapping=tex-text;"
-.................................................
-(F:\CTEX\MiKTeX\tex\latex\hyperref\hyperref.sty
-Package: hyperref 2012/02/06 v6.82o Hypertext links for LaTeX
-
-(F:\CTEX\MiKTeX\tex\generic\oberdiek\hobsub-hyperref.sty
-Package: hobsub-hyperref 2011/04/23 v1.4 Bundle oberdiek, subset hyperref (HO)
-
-(F:\CTEX\MiKTeX\tex\generic\oberdiek\hobsub-generic.sty
-Package: hobsub-generic 2011/04/23 v1.4 Bundle oberdiek, subset generic (HO)
-Package: hobsub 2011/04/23 v1.4 Subsetting bundle oberdiek (HO)
-=======
 . [WordSpace={1,0,0},HyphenChar=None,PunctuationSpace=WordSpace].
 .  
 .  This font family consists of the following NFSS series/shapes:
@@ -1668,48 +1178,40 @@ Package: hobsub 2011/04/23 v1.4 Subsetting bundle oberdiek (HO)
 .................................................
 LaTeX Info: Redefining \ttfamily on input line 68.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+(F:\latex\MikTex\inst\tex\latex\hyperref\hyperref.sty
 Package: hyperref 2018/02/06 v6.86b Hypertext links for LaTeX
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
+(F:\latex\MikTex\inst\tex\generic\oberdiek\hobsub-hyperref.sty
 Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
 
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
+(F:\latex\MikTex\inst\tex\generic\oberdiek\hobsub-generic.sty
 Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
->>>>>>> 0f0a363ad0b594adb713edc66e8838bba4d8e783
 Package hobsub Info: Skipping package `infwarerr' (already loaded).
 Package hobsub Info: Skipping package `ltxcmds' (already loaded).
 Package hobsub Info: Skipping package `ifluatex' (already loaded).
-Package: ifvtex 2010/03/01 v1.5 Switches for detecting VTeX and its modes (HO)
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
-Package: intcalc 2007/09/27 v1.1 Expandable integer calculations (HO)
-Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
 Package hobsub Info: Skipping package `etexcmds' (already loaded).
 Package hobsub Info: Skipping package `kvsetkeys' (already loaded).
-Package: kvdefinekeys 2011/04/07 v1.3 Defining keys (HO)
-Package: pdftexcmds 2011/04/22 v0.16 Utilities of pdfTeX for LuaTeX (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO
+)
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: pdfTeX >= 1.30 not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode not found.
-Package: pdfescape 2011/04/04 v1.12 Provides string conversions (HO)
-Package: bigintcalc 2011/01/30 v1.2 Expandable big integer calculations (HO)
-Package: bitset 2011/01/30 v1.1 Data type bit set (HO)
-Package: uniquecounter 2011/01/30 v1.2 Provides unlimited unique counter (HO)
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
 )
 Package hobsub Info: Skipping package `hobsub' (already loaded).
-<<<<<<< HEAD
-Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
-Package: hopatch 2011/01/30 v1.0 Wrapper for package hooks (HO)
-Package: xcolor-patch 2011/01/30 xcolor patch
-Package: atveryend 2011/04/23 v1.7 Hooks at very end of document (HO)
-Package: atbegshi 2011/01/30 v1.15 At begin shipout hook (HO)
-Package: refcount 2010/12/01 v3.2 Data extraction from references (HO)
-Package: hycolor 2011/01/30 v1.7 Color options of hyperref/bookmark (HO)
-=======
 Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
 Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
 Package: xcolor-patch 2016/05/16 xcolor patch
@@ -1719,88 +1221,27 @@ Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
 Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
 Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+(F:\latex\MikTex\inst\tex\generic\ifxetex\ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
+(F:\latex\MikTex\inst\tex\latex\oberdiek\auxhook.sty
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
->>>>>>> 0f0a363ad0b594adb713edc66e8838bba4d8e783
 )
-\@linkdim=\dimen146
-\Hy@linkcounter=\count182
-\Hy@pagecounter=\count183
+\@linkdim=\dimen175
+\Hy@linkcounter=\count267
+\Hy@pagecounter=\count268
 
-<<<<<<< HEAD
-(F:\CTEX\MiKTeX\tex\latex\hyperref\pd1enc.def
-File: pd1enc.def 2012/02/06 v6.82o Hyperref: PDFDocEncoding definition (HO)
-=======
-("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
+(F:\latex\MikTex\inst\tex\latex\hyperref\pd1enc.def
 File: pd1enc.def 2018/02/06 v6.86b Hyperref: PDFDocEncoding definition (HO)
->>>>>>> 0f0a363ad0b594adb713edc66e8838bba4d8e783
 )
-\Hy@SavedSpaceFactor=\count184
+\Hy@SavedSpaceFactor=\count269
 
-<<<<<<< HEAD
-(F:\CTEX\MiKTeX\tex\latex\00miktex\hyperref.cfg
-File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
-)
-Package hyperref Info: Hyper figures OFF on input line 4046.
-Package hyperref Info: Link nesting OFF on input line 4051.
-Package hyperref Info: Hyper index ON on input line 4054.
-Package hyperref Info: Plain pages OFF on input line 4061.
-Package hyperref Info: Backreferencing OFF on input line 4066.
-Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4284.
-\c@Hy@tempcnt=\count185
-
-(F:\CTEX\MiKTeX\tex\xelatex\xetexurl\url.sty
-\Urlmuskip=\muskip10
-Package: url 2004/03/15  ver 3.1  Verb mode for urls, etc.
-)
-LaTeX Info: Redefining \url on input line 4637.
-\Fld@menulength=\count186
-\Field@Width=\dimen147
-\Fld@charsize=\dimen148
-Package hyperref Info: Hyper figures OFF on input line 5757.
-Package hyperref Info: Link nesting OFF on input line 5762.
-Package hyperref Info: Hyper index ON on input line 5765.
-Package hyperref Info: backreferencing OFF on input line 5772.
-Package hyperref Info: Link coloring OFF on input line 5777.
-Package hyperref Info: Link coloring with OCG OFF on input line 5782.
-Package hyperref Info: PDF/A mode OFF on input line 5787.
-LaTeX Info: Redefining \ref on input line 5827.
-LaTeX Info: Redefining \pageref on input line 5831.
-\Hy@abspage=\count187
-\c@Item=\count188
-\c@Hfootnote=\count189
-)
-
-Package hyperref Message: Driver (autodetected): hxetex.
-
-(F:\CTEX\MiKTeX\tex\latex\hyperref\hxetex.def
-File: hxetex.def 2012/02/06 v6.82o Hyperref driver for XeTeX
-
-(F:\CTEX\MiKTeX\tex\latex\hyperref\puenc.def
-File: puenc.def 2012/02/06 v6.82o Hyperref: PDF Unicode definition (HO)
-)
-(F:\CTEX\MiKTeX\tex\generic\oberdiek\stringenc.sty
-Package: stringenc 2010/03/01 v1.8 Converts strings between encodings (HO)
-)
-\pdfm@box=\box35
-\c@Hy@AnnotLevel=\count190
-\HyField@AnnotCount=\count191
-\Fld@listcount=\count192
-\c@bookmark@seq@number=\count193
-
-(F:\CTEX\MiKTeX\tex\latex\oberdiek\rerunfilecheck.sty
-Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
-=======
-("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
+(F:\latex\MikTex\inst\tex\latex\00miktex\hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
 Package hyperref Info: Option `unicode' set `true' on input line 4383.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\puenc.def"
+(F:\latex\MikTex\inst\tex\latex\hyperref\puenc.def
 File: puenc.def 2018/02/06 v6.86b Hyperref: PDF Unicode definition (HO)
 )
 Package hyperref Info: Hyper figures OFF on input line 4509.
@@ -1812,7 +1253,7 @@ Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4762.
 \c@Hy@tempcnt=\count270
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty"
+(F:\latex\MikTex\inst\tex\latex\url\url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -1836,10 +1277,10 @@ LaTeX Info: Redefining \pageref on input line 6443.
 )
 Package hyperref Info: Driver (autodetected): hxetex.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hxetex.def"
+(F:\latex\MikTex\inst\tex\latex\hyperref\hxetex.def
 File: hxetex.def 2018/02/06 v6.86b Hyperref driver for XeTeX
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\stringenc.sty"
+(F:\latex\MikTex\inst\tex\generic\oberdiek\stringenc.sty
 Package: stringenc 2016/05/16 v1.11 Convert strings between diff. encodings (HO
 )
 )
@@ -1849,9 +1290,8 @@ Package: stringenc 2016/05/16 v1.11 Convert strings between diff. encodings (HO
 \Fld@listcount=\count277
 \c@bookmark@seq@number=\count278
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
+(F:\latex\MikTex\inst\tex\latex\oberdiek\rerunfilecheck.sty
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
->>>>>>> 0f0a363ad0b594adb713edc66e8838bba4d8e783
 Package rerunfilecheck Info: Feature \pdfmdfivesum is not available
 (rerunfilecheck)             (e.g. pdfTeX or LuaTeX with package `pdftexcmds').
 
@@ -1859,7 +1299,7 @@ Package rerunfilecheck Info: Feature \pdfmdfivesum is not available
 tly
 (rerunfilecheck)             and the loading of the package is aborted.
 )
-\Hy@SectionHShift=\skip49
+\Hy@SectionHShift=\skip62
 )
 Package hyperref Info: Option `bookmarksopen' set `true' on input line 78.
 Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 78.
@@ -1868,57 +1308,10 @@ Package hyperref Info: Option `unicode' set `true' on input line 78.
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining document command \setfontsize with arg. spec. 'mo' on line 92.
+. Defining command \setfontsize with sig. 'mo' on line 92.
 .................................................
 
-<<<<<<< HEAD
-(F:\CTEX\MiKTeX\tex\latex\geometry\geometry.sty
-Package: geometry 2010/09/12 v5.6 Page Geometry
-\Gm@cnth=\count194
-\Gm@cntv=\count195
-\c@Gm@tempcnt=\count196
-\Gm@bindingoffset=\dimen149
-\Gm@wd@mp=\dimen150
-\Gm@odd@mp=\dimen151
-\Gm@even@mp=\dimen152
-\Gm@layoutwidth=\dimen153
-\Gm@layoutheight=\dimen154
-\Gm@layouthoffset=\dimen155
-\Gm@layoutvoffset=\dimen156
-\Gm@dimlist=\toks19
-
-(F:\CTEX\MiKTeX\tex\xelatex\xetexconfig\geometry.cfg))
-(F:\CTEX\MiKTeX\tex\latex\titlesec\titlesec.sty
-Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
-\ttl@box=\box36
-\beforetitleunit=\skip50
-\aftertitleunit=\skip51
-\ttl@plus=\dimen157
-\ttl@minus=\dimen158
-\ttl@toksa=\toks20
-\titlewidth=\dimen159
-\titlewidthlast=\dimen160
-\titlewidthfirst=\dimen161
-
-(F:\CTEX\MiKTeX\tex\latex\titlesec\ttlps.def
-File: ttlps.def 2011/12/15
-))
-(F:\CTEX\MiKTeX\tex\latex\pgf\frontendlayer\tikz.sty
-(F:\CTEX\MiKTeX\tex\latex\pgf\basiclayer\pgf.sty
-(F:\CTEX\MiKTeX\tex\latex\pgf\utilities\pgfrcs.sty
-(F:\CTEX\MiKTeX\tex\generic\pgf\utilities\pgfutil-common.tex
-\pgfutil@everybye=\toks21
-)
-(F:\CTEX\MiKTeX\tex\generic\pgf\utilities\pgfutil-latex.def
-\pgfutil@abb=\box37
-
-(F:\CTEX\MiKTeX\tex\latex\ms\everyshi.sty
-Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
-))
-(F:\CTEX\MiKTeX\tex\generic\pgf\utilities\pgfrcs.code.tex
-Package: pgfrcs 2010/10/25 v2.10 (rcs-revision 1.24)
-=======
-("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+(F:\latex\MikTex\inst\tex\latex\geometry\geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
 \Gm@cnth=\count279
 \Gm@cntv=\count280
@@ -1933,8 +1326,8 @@ Package: geometry 2010/09/12 v5.6 Page Geometry
 \Gm@layoutvoffset=\dimen186
 \Gm@dimlist=\toks17
 
-("C:\Program Files\MiKTeX 2.9\tex\xelatex\xetexconfig\geometry.cfg"))
-("C:\Program Files\MiKTeX 2.9\tex\latex\titlesec\titlesec.sty"
+(F:\latex\MikTex\inst\tex\xelatex\xetexconfig\geometry.cfg))
+(F:\latex\MikTex\inst\tex\latex\titlesec\titlesec.sty
 Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
 \ttl@box=\box52
 \beforetitleunit=\skip63
@@ -1946,94 +1339,70 @@ Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
 \titlewidthlast=\dimen190
 \titlewidthfirst=\dimen191
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\titlesec\ttlps.def"
+(F:\latex\MikTex\inst\tex\latex\titlesec\ttlps.def
 File: ttlps.def 2016/03/15
 ))
-("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\frontendlayer\tikz.sty"
-("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgf.sty"
-("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgfrcs.sty"
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common.tex"
+(F:\latex\MikTex\inst\tex\latex\pgf\frontendlayer\tikz.sty
+(F:\latex\MikTex\inst\tex\latex\pgf\basiclayer\pgf.sty
+(F:\latex\MikTex\inst\tex\latex\pgf\utilities\pgfrcs.sty
+(F:\latex\MikTex\inst\tex\generic\pgf\utilities\pgfutil-common.tex
 \pgfutil@everybye=\toks19
 \pgfutil@tempdima=\dimen192
 \pgfutil@tempdimb=\dimen193
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common-lists.te
-x")) ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-latex.def"
+(F:\latex\MikTex\inst\tex\generic\pgf\utilities\pgfutil-common-lists.tex))
+(F:\latex\MikTex\inst\tex\generic\pgf\utilities\pgfutil-latex.def
 \pgfutil@abb=\box53
-("C:\Program Files\MiKTeX 2.9\tex\latex\ms\everyshi.sty"
+
+(F:\latex\MikTex\inst\tex\latex\ms\everyshi.sty
 Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
 ))
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfrcs.code.tex"
+(F:\latex\MikTex\inst\tex\generic\pgf\utilities\pgfrcs.code.tex
 Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
->>>>>>> 0f0a363ad0b594adb713edc66e8838bba4d8e783
 ))
-Package: pgf 2008/01/15 v2.10 (rcs-revision 1.12)
+Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
 
-<<<<<<< HEAD
-(F:\CTEX\MiKTeX\tex\latex\pgf\basiclayer\pgfcore.sty
-(F:\CTEX\MiKTeX\tex\latex\pgf\systemlayer\pgfsys.sty
-(F:\CTEX\MiKTeX\tex\generic\pgf\systemlayer\pgfsys.code.tex
-Package: pgfsys 2010/06/30 v2.10 (rcs-revision 1.37)
-
-(F:\CTEX\MiKTeX\tex\generic\pgf\utilities\pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks22
-\pgfkeys@temptoks=\toks23
-
-(F:\CTEX\MiKTeX\tex\generic\pgf\utilities\pgfkeysfiltered.code.tex
-\pgfkeys@tmptoks=\toks24
-=======
-("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgfcore.sty"
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+(F:\latex\MikTex\inst\tex\latex\pgf\basiclayer\pgfcore.sty
+(F:\latex\MikTex\inst\tex\latex\graphics\graphicx.sty
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+(F:\latex\MikTex\inst\tex\latex\graphics\graphics.sty
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+(F:\latex\MikTex\inst\tex\latex\graphics\trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+(F:\latex\MikTex\inst\tex\latex\graphics-cfg\graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: xetex.def on input line 99.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\xetex.def"
+(F:\latex\MikTex\inst\tex\latex\graphics-def\xetex.def
 File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
 ))
 \Gin@req@height=\dimen194
 \Gin@req@width=\dimen195
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\systemlayer\pgfsys.sty"
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys.code.tex"
+(F:\latex\MikTex\inst\tex\latex\pgf\systemlayer\pgfsys.sty
+(F:\latex\MikTex\inst\tex\generic\pgf\systemlayer\pgfsys.code.tex
 Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex"
+(F:\latex\MikTex\inst\tex\generic\pgf\utilities\pgfkeys.code.tex
 \pgfkeys@pathtoks=\toks20
 \pgfkeys@temptoks=\toks21
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeysfiltered.code.te
-x"
+(F:\latex\MikTex\inst\tex\generic\pgf\utilities\pgfkeysfiltered.code.tex
 \pgfkeys@tmptoks=\toks22
->>>>>>> 0f0a363ad0b594adb713edc66e8838bba4d8e783
 ))
-\pgf@x=\dimen162
-\pgf@y=\dimen163
-\pgf@xa=\dimen164
-\pgf@ya=\dimen165
-\pgf@xb=\dimen166
-\pgf@yb=\dimen167
-\pgf@xc=\dimen168
-\pgf@yc=\dimen169
+\pgf@x=\dimen196
+\pgf@y=\dimen197
+\pgf@xa=\dimen198
+\pgf@ya=\dimen199
+\pgf@xb=\dimen256
+\pgf@yb=\dimen257
+\pgf@xc=\dimen258
+\pgf@yc=\dimen259
 \w@pgf@writea=\write3
-<<<<<<< HEAD
-\r@pgf@reada=\read1
-\c@pgf@counta=\count197
-\c@pgf@countb=\count198
-\c@pgf@countc=\count199
-\c@pgf@countd=\count200
-
-(F:\CTEX\MiKTeX\tex\generic\pgf\systemlayer\pgf.cfg
-=======
 \r@pgf@reada=\read2
 \c@pgf@counta=\count282
 \c@pgf@countb=\count283
@@ -2042,327 +1411,35 @@ x"
 \t@pgf@toka=\toks23
 \t@pgf@tokb=\toks24
 \t@pgf@tokc=\toks25
- ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgf.cfg"
->>>>>>> 0f0a363ad0b594adb713edc66e8838bba4d8e783
+
+(F:\latex\MikTex\inst\tex\generic\pgf\systemlayer\pgf.cfg
 File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
 )
-Package pgfsys Info: Driver file for pgf: pgfsys-xetex.def on input line 900.
+Driver file for pgf: pgfsys-xetex.def
 
-<<<<<<< HEAD
-(F:\CTEX\MiKTeX\tex\generic\pgf\systemlayer\pgfsys-xetex.def
-File: pgfsys-xetex.def 2010/02/16  (rcs-revision 1.3)
-
-(F:\CTEX\MiKTeX\tex\generic\pgf\systemlayer\pgfsys-common-pdf.def
-File: pgfsys-common-pdf.def 2008/05/19  (rcs-revision 1.10)
-=======
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-xetex.def"
+(F:\latex\MikTex\inst\tex\generic\pgf\systemlayer\pgfsys-xetex.def
 File: pgfsys-xetex.def 2014/07/09  (rcs-revision 1.11)
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-dvipdfmx.def"
+(F:\latex\MikTex\inst\tex\generic\pgf\systemlayer\pgfsys-dvipdfmx.def
 File: pgfsys-dvipdfmx.def 2014/07/09  (rcs-revision 1.14)
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-common-pdf.def
-"
+(F:\latex\MikTex\inst\tex\generic\pgf\systemlayer\pgfsys-common-pdf.def
 File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
->>>>>>> 0f0a363ad0b594adb713edc66e8838bba4d8e783
 )
-(F:\CTEX\MiKTeX\tex\generic\pgf\systemlayer\pgfsys-common-pdf-via-dvi.def
-File: pgfsys-common-pdf-via-dvi.def 2008/05/19  (rcs-revision 1.7)
+\pgfsys@objnum=\count286
 )))
-<<<<<<< HEAD
-(F:\CTEX\MiKTeX\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
-File: pgfsyssoftpath.code.tex 2008/07/18  (rcs-revision 1.7)
-\pgfsyssoftpath@smallbuffer@items=\count201
-Normal \count register pool exhausted, switching to extended pool.
-\pgfsyssoftpath@bigbuffer@items=\count277
-)
-(F:\CTEX\MiKTeX\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
-File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
-))
-(F:\CTEX\MiKTeX\tex\latex\xcolor\xcolor.sty
-Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
-
-(F:\CTEX\MiKTeX\tex\latex\00miktex\color.cfg
-File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
-)
-Package xcolor Info: Driver file: xetex.def on input line 225.
-LaTeX Info: Redefining \color on input line 702.
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
-Package xcolor Info: Model `RGB' extended on input line 1353.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
-)
-(F:\CTEX\MiKTeX\tex\generic\pgf\basiclayer\pgfcore.code.tex
-Package: pgfcore 2010/04/11 v2.10 (rcs-revision 1.7)
-
-(F:\CTEX\MiKTeX\tex\generic\pgf\math\pgfmath.code.tex
-(F:\CTEX\MiKTeX\tex\generic\pgf\math\pgfmathcalc.code.tex
-(F:\CTEX\MiKTeX\tex\generic\pgf\math\pgfmathutil.code.tex)
-(F:\CTEX\MiKTeX\tex\generic\pgf\math\pgfmathparser.code.tex
-\pgfmath@dimen=\dimen170
-\pgfmath@count=\count278
-\pgfmath@box=\box38
-\pgfmath@toks=\toks25
-\pgfmath@stack@operand=\toks26
-\pgfmath@stack@operation=\toks27
-)
-(F:\CTEX\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.code.tex
-(F:\CTEX\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.basic.code.tex)
-(F:\CTEX\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.trigonometric.code.tex)
-(F:\CTEX\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.random.code.tex)
-(F:\CTEX\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.comparison.code.tex)
-(F:\CTEX\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.base.code.tex)
-(F:\CTEX\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.round.code.tex)
-(F:\CTEX\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.misc.code.tex)))
-(F:\CTEX\MiKTeX\tex\generic\pgf\math\pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count279
-))
-(F:\CTEX\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepoints.code.tex
-File: pgfcorepoints.code.tex 2010/04/09  (rcs-revision 1.20)
-\pgf@picminx=\dimen171
-\pgf@picmaxx=\dimen172
-\pgf@picminy=\dimen173
-\pgf@picmaxy=\dimen174
-\pgf@pathminx=\dimen175
-\pgf@pathmaxx=\dimen176
-\pgf@pathminy=\dimen177
-\pgf@pathmaxy=\dimen178
-\pgf@xx=\dimen179
-\pgf@xy=\dimen180
-\pgf@yx=\dimen181
-\pgf@yy=\dimen182
-\pgf@zx=\dimen183
-\pgf@zy=\dimen184
-)
-(F:\CTEX\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepathconstruct.code.tex
-File: pgfcorepathconstruct.code.tex 2010/08/03  (rcs-revision 1.24)
-\pgf@path@lastx=\dimen185
-\pgf@path@lasty=\dimen186
-)
-(F:\CTEX\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepathusage.code.tex
-File: pgfcorepathusage.code.tex 2008/04/22  (rcs-revision 1.12)
-\pgf@shorten@end@additional=\dimen187
-\pgf@shorten@start@additional=\dimen188
-)
-(F:\CTEX\MiKTeX\tex\generic\pgf\basiclayer\pgfcorescopes.code.tex
-File: pgfcorescopes.code.tex 2010/09/08  (rcs-revision 1.34)
-\pgfpic=\box39
-\pgf@hbox=\box40
-\pgf@layerbox@main=\box41
-\pgf@picture@serial@count=\count280
-)
-(F:\CTEX\MiKTeX\tex\generic\pgf\basiclayer\pgfcoregraphicstate.code.tex
-File: pgfcoregraphicstate.code.tex 2008/04/22  (rcs-revision 1.9)
-\pgflinewidth=\dimen189
-)
-(F:\CTEX\MiKTeX\tex\generic\pgf\basiclayer\pgfcoretransformations.code.tex
-File: pgfcoretransformations.code.tex 2009/06/10  (rcs-revision 1.11)
-\pgf@pt@x=\dimen190
-\pgf@pt@y=\dimen191
-\pgf@pt@temp=\dimen192
-)
-(F:\CTEX\MiKTeX\tex\generic\pgf\basiclayer\pgfcorequick.code.tex
-File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
-)
-(F:\CTEX\MiKTeX\tex\generic\pgf\basiclayer\pgfcoreobjects.code.tex
-File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
-)
-(F:\CTEX\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepathprocessing.code.tex
-File: pgfcorepathprocessing.code.tex 2008/10/09  (rcs-revision 1.8)
-)
-(F:\CTEX\MiKTeX\tex\generic\pgf\basiclayer\pgfcorearrows.code.tex
-File: pgfcorearrows.code.tex 2008/04/23  (rcs-revision 1.11)
-)
-(F:\CTEX\MiKTeX\tex\generic\pgf\basiclayer\pgfcoreshade.code.tex
-File: pgfcoreshade.code.tex 2008/11/23  (rcs-revision 1.13)
-\pgf@max=\dimen193
-\pgf@sys@shading@range@num=\count281
-)
-(F:\CTEX\MiKTeX\tex\generic\pgf\basiclayer\pgfcoreimage.code.tex
-File: pgfcoreimage.code.tex 2010/03/25  (rcs-revision 1.16)
-
-(F:\CTEX\MiKTeX\tex\generic\pgf\basiclayer\pgfcoreexternal.code.tex
-File: pgfcoreexternal.code.tex 2010/09/01  (rcs-revision 1.17)
-\pgfexternal@startupbox=\box42
-))
-(F:\CTEX\MiKTeX\tex\generic\pgf\basiclayer\pgfcorelayers.code.tex
-File: pgfcorelayers.code.tex 2010/08/27  (rcs-revision 1.2)
-)
-(F:\CTEX\MiKTeX\tex\generic\pgf\basiclayer\pgfcoretransparency.code.tex
-File: pgfcoretransparency.code.tex 2008/01/17  (rcs-revision 1.2)
-)
-(F:\CTEX\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepatterns.code.tex
-File: pgfcorepatterns.code.tex 2009/07/02  (rcs-revision 1.3)
-)))
-(F:\CTEX\MiKTeX\tex\generic\pgf\modules\pgfmoduleshapes.code.tex
-File: pgfmoduleshapes.code.tex 2010/09/09  (rcs-revision 1.13)
-\pgfnodeparttextbox=\box43
-)
-(F:\CTEX\MiKTeX\tex\generic\pgf\modules\pgfmoduleplot.code.tex
-File: pgfmoduleplot.code.tex 2010/10/22  (rcs-revision 1.8)
-)
-(F:\CTEX\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
-Package: pgfcomp-version-0-65 2007/07/03 v2.10 (rcs-revision 1.7)
-\pgf@nodesepstart=\dimen194
-\pgf@nodesepend=\dimen195
-)
-(F:\CTEX\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
-Package: pgfcomp-version-1-18 2007/07/23 v2.10 (rcs-revision 1.1)
-))
-(F:\CTEX\MiKTeX\tex\latex\pgf\utilities\pgffor.sty
-(F:\CTEX\MiKTeX\tex\latex\pgf\utilities\pgfkeys.sty
-(F:\CTEX\MiKTeX\tex\generic\pgf\utilities\pgfkeys.code.tex))
-(F:\CTEX\MiKTeX\tex\generic\pgf\utilities\pgffor.code.tex
-Package: pgffor 2010/03/23 v2.10 (rcs-revision 1.18)
-\pgffor@iter=\dimen196
-\pgffor@skip=\dimen197
-\pgffor@stack=\toks28
-\pgffor@toks=\toks29
-))
-(F:\CTEX\MiKTeX\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
-Package: tikz 2010/10/13 v2.10 (rcs-revision 1.76)
-
-(F:\CTEX\MiKTeX\tex\generic\pgf\libraries\pgflibraryplothandlers.code.tex
-File: pgflibraryplothandlers.code.tex 2010/05/31 v2.10 (rcs-revision 1.15)
-\pgf@plot@mark@count=\count282
-\pgfplotmarksize=\dimen198
-)
-\tikz@lastx=\dimen199
-\tikz@lasty=\dimen200
-\tikz@lastxsaved=\dimen201
-Normal \dimen register pool exhausted, switching to extended pool.
-\tikz@lastysaved=\dimen256
-\tikzleveldistance=\dimen257
-\tikzsiblingdistance=\dimen258
-\tikz@figbox=\box44
-\tikz@tempbox=\box45
-\tikztreelevel=\count283
-\tikznumberofchildren=\count284
-\tikznumberofcurrentchild=\count285
-\tikz@fig@count=\count286
-
-(F:\CTEX\MiKTeX\tex\generic\pgf\modules\pgfmodulematrix.code.tex
-File: pgfmodulematrix.code.tex 2010/08/24  (rcs-revision 1.4)
-\pgfmatrixcurrentrow=\count287
-\pgfmatrixcurrentcolumn=\count288
-\pgf@matrix@numberofcolumns=\count289
-)
-\tikz@expandcount=\count290
-
-(F:\CTEX\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths
-.code.tex
-File: tikzlibrarytopaths.code.tex 2008/06/17 v2.10 (rcs-revision 1.2)
-))) (F:\CTEX\MiKTeX\tex\latex\titlesec\titletoc.sty
-Package: titletoc 2011/12/15 v1.6 TOC entries
-\ttl@leftsep=\dimen259
-)
-! Undefined control sequence.
-l.388 \ctexset
-              {
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-! LaTeX Error: Missing \begin{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.389     c
-           hapter = {
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-Requested font "Arial/ICU:script=latn;language=DFLT;mapping=tex-text;" at 10.54
-pt
- -> C:/WINDOWS/Fonts/arial.ttf
-Requested font "Arial/B/ICU:script=latn;language=DFLT;mapping=tex-text;" at 10.
-54pt
- -> C:/WINDOWS/Fonts/arialbd.ttf
-Requested font "Arial/B/ICU:script=latn;language=DFLT;mapping=tex-text;" at 16.
-06pt
- -> C:/WINDOWS/Fonts/arialbd.ttf
-Requested font "Arial/ICU:script=latn;language=DFLT;mapping=tex-text;" at 14.05
-249pt
- -> C:/WINDOWS/Fonts/arial.ttf
-Requested font "Arial/ICU:script=latn;language=DFLT;mapping=tex-text;" at 13.04
-874pt
- -> C:/WINDOWS/Fonts/arial.ttf
-Requested font "Arial/ICU:script=latn;language=DFLT;mapping=tex-text;" at 12.04
-5pt
- -> C:/WINDOWS/Fonts/arial.ttf
-! Undefined control sequence.
-l.414     \ctexset
-                  {section/format += \centering\zihao{-3}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-Requested font "Times New Roman/ICU:script=latn;language=DFLT;mapping=tex-text;
-" at 15.06pt
- -> C:/WINDOWS/Fonts/times.ttf
-! Undefined control sequence.
-l.415     \ctexset
-                  {subsection/format += \zihao{4}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-Requested font "Times New Roman/ICU:script=latn;language=DFLT;mapping=tex-text;
-" at 14.05pt
- -> C:/WINDOWS/Fonts/times.ttf
-(F:\CTEX\MiKTeX\tex\latex\caption\caption.sty
-Package: caption 2011/11/10 v3.2e Customizing captions (AR)
-
-(F:\CTEX\MiKTeX\tex\latex\caption\caption3.sty
-Package: caption3 2011/11/01 v1.4a caption3 kernel (AR)
-\captionmargin=\dimen260
-\captionmargin@=\dimen261
-\captionwidth=\dimen262
-\caption@indent=\dimen263
-\caption@parindent=\dimen264
-\caption@hangindent=\dimen265
-Package caption Info: Unknown document class (or package),
-(caption)             standard defaults will be used.
-)
-
-Package caption Warning: Unsupported document class (or package) detected,
-(caption)                usage of the caption package is not recommended.
-See the caption package documentation for explanation.
-
-Package caption Info: \@makecaption = \long macro:#1#2->\vskip \abovecaptionski
-p \sbox \@tempboxa {#1\CTEX@caption@delimiter #2}\ifdim \wd \@tempboxa >\hsize 
-#1\CTEX@caption@delimiter #2\par \else \global \@minipagefalse \hb@xt@ \hsize {
-\hfil \box \@tempboxa \hfil }\fi \vskip \belowcaptionskip .
-\c@ContinuedFloat=\count291
-Package caption Info: hyperref package is loaded.
-) (F:\CTEX\MiKTeX\tex\latex\natbib\natbib.sty
-=======
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.t
-ex"
+(F:\latex\MikTex\inst\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
 \pgfsyssoftpath@smallbuffer@items=\count287
 \pgfsyssoftpath@bigbuffer@items=\count288
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsysprotocol.code.t
-ex"
+(F:\latex\MikTex\inst\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
-)) ("C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+))
+(F:\latex\MikTex\inst\tex\latex\xcolor\xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
+(F:\latex\MikTex\inst\tex\latex\graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: xetex.def on input line 225.
@@ -2375,13 +1452,13 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcore.code.tex"
+(F:\latex\MikTex\inst\tex\generic\pgf\basiclayer\pgfcore.code.tex
 Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex"
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathcalc.code.tex"
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathutil.code.tex")
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathparser.code.tex"
+(F:\latex\MikTex\inst\tex\generic\pgf\math\pgfmath.code.tex
+(F:\latex\MikTex\inst\tex\generic\pgf\math\pgfmathcalc.code.tex
+(F:\latex\MikTex\inst\tex\generic\pgf\math\pgfmathutil.code.tex)
+(F:\latex\MikTex\inst\tex\generic\pgf\math\pgfmathparser.code.tex
 \pgfmath@dimen=\dimen260
 \pgfmath@count=\count289
 \pgfmath@box=\box54
@@ -2389,28 +1466,20 @@ Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
 \pgfmath@stack@operand=\toks27
 \pgfmath@stack@operation=\toks28
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.code.tex"
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.basic.code.
-tex")
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.trigonometr
-ic.code.tex")
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.random.code
-.tex")
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.comparison.
-code.tex")
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.base.code.t
-ex")
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.round.code.
-tex")
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.misc.code.t
-ex")
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.integerarit
-hmetics.code.tex")))
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfloat.code.tex"
+(F:\latex\MikTex\inst\tex\generic\pgf\math\pgfmathfunctions.code.tex
+(F:\latex\MikTex\inst\tex\generic\pgf\math\pgfmathfunctions.basic.code.tex)
+(F:\latex\MikTex\inst\tex\generic\pgf\math\pgfmathfunctions.trigonometric.code.
+tex)
+(F:\latex\MikTex\inst\tex\generic\pgf\math\pgfmathfunctions.random.code.tex)
+(F:\latex\MikTex\inst\tex\generic\pgf\math\pgfmathfunctions.comparison.code.tex
+) (F:\latex\MikTex\inst\tex\generic\pgf\math\pgfmathfunctions.base.code.tex)
+(F:\latex\MikTex\inst\tex\generic\pgf\math\pgfmathfunctions.round.code.tex)
+(F:\latex\MikTex\inst\tex\generic\pgf\math\pgfmathfunctions.misc.code.tex)
+(F:\latex\MikTex\inst\tex\generic\pgf\math\pgfmathfunctions.integerarithmetics.
+code.tex))) (F:\latex\MikTex\inst\tex\generic\pgf\math\pgfmathfloat.code.tex
 \c@pgfmathroundto@lastzeros=\count290
 ))
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepoints.code.tex
-"
+(F:\latex\MikTex\inst\tex\generic\pgf\basiclayer\pgfcorepoints.code.tex
 File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
 \pgf@picminx=\dimen261
 \pgf@picmaxx=\dimen262
@@ -2427,113 +1496,98 @@ File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
 \pgf@zx=\dimen273
 \pgf@zy=\dimen274
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathconstruct.c
-ode.tex"
+(F:\latex\MikTex\inst\tex\generic\pgf\basiclayer\pgfcorepathconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
 \pgf@path@lastx=\dimen275
 \pgf@path@lasty=\dimen276
-)
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathusage.code.
-tex"
+) (F:\latex\MikTex\inst\tex\generic\pgf\basiclayer\pgfcorepathusage.code.tex
 File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
 \pgf@shorten@end@additional=\dimen277
 \pgf@shorten@start@additional=\dimen278
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorescopes.code.tex
-"
+(F:\latex\MikTex\inst\tex\generic\pgf\basiclayer\pgfcorescopes.code.tex
 File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
 \pgfpic=\box55
 \pgf@hbox=\box56
 \pgf@layerbox@main=\box57
 \pgf@picture@serial@count=\count291
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoregraphicstate.co
-de.tex"
+(F:\latex\MikTex\inst\tex\generic\pgf\basiclayer\pgfcoregraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
 \pgflinewidth=\dimen279
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoretransformations
-.code.tex"
+(F:\latex\MikTex\inst\tex\generic\pgf\basiclayer\pgfcoretransformations.code.te
+x
 File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
 \pgf@pt@x=\dimen280
 \pgf@pt@y=\dimen281
 \pgf@pt@temp=\dimen282
-)
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorequick.code.tex"
+) (F:\latex\MikTex\inst\tex\generic\pgf\basiclayer\pgfcorequick.code.tex
 File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreobjects.code.te
-x"
+(F:\latex\MikTex\inst\tex\generic\pgf\basiclayer\pgfcoreobjects.code.tex
 File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathprocessing.
-code.tex"
+(F:\latex\MikTex\inst\tex\generic\pgf\basiclayer\pgfcorepathprocessing.code.tex
 File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
-)
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorearrows.code.tex
-"
+) (F:\latex\MikTex\inst\tex\generic\pgf\basiclayer\pgfcorearrows.code.tex
 File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
 \pgfarrowsep=\dimen283
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreshade.code.tex"
+(F:\latex\MikTex\inst\tex\generic\pgf\basiclayer\pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
 \pgf@max=\dimen284
 \pgf@sys@shading@range@num=\count292
-) ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreimage.code.te
-x"
+)
+(F:\latex\MikTex\inst\tex\generic\pgf\basiclayer\pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreexternal.code.t
-ex"
+(F:\latex\MikTex\inst\tex\generic\pgf\basiclayer\pgfcoreexternal.code.tex
 File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
 \pgfexternal@startupbox=\box58
 ))
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorelayers.code.tex
-"
+(F:\latex\MikTex\inst\tex\generic\pgf\basiclayer\pgfcorelayers.code.tex
 File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoretransparency.co
-de.tex"
+(F:\latex\MikTex\inst\tex\generic\pgf\basiclayer\pgfcoretransparency.code.tex
 File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepatterns.code.t
-ex"
+(F:\latex\MikTex\inst\tex\generic\pgf\basiclayer\pgfcorepatterns.code.tex
 File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
 )))
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduleshapes.code.tex"
+(F:\latex\MikTex\inst\tex\generic\pgf\modules\pgfmoduleshapes.code.tex
 File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
 \pgfnodeparttextbox=\box59
-) ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduleplot.code.tex"
+)
+(F:\latex\MikTex\inst\tex\generic\pgf\modules\pgfmoduleplot.code.tex
 File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-0-65.
-sty"
+(F:\latex\MikTex\inst\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
 Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
 \pgf@nodesepstart=\dimen285
 \pgf@nodesepend=\dimen286
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-1-18.
-sty"
+(F:\latex\MikTex\inst\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
 Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
-)) ("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgffor.sty"
-("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgfkeys.sty"
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex"))
-("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\math\pgfmath.sty"
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex"))
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgffor.code.tex"
+))
+(F:\latex\MikTex\inst\tex\latex\pgf\utilities\pgffor.sty
+(F:\latex\MikTex\inst\tex\latex\pgf\utilities\pgfkeys.sty
+(F:\latex\MikTex\inst\tex\generic\pgf\utilities\pgfkeys.code.tex))
+(F:\latex\MikTex\inst\tex\latex\pgf\math\pgfmath.sty
+(F:\latex\MikTex\inst\tex\generic\pgf\math\pgfmath.code.tex))
+(F:\latex\MikTex\inst\tex\generic\pgf\utilities\pgffor.code.tex
 Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex")
+(F:\latex\MikTex\inst\tex\generic\pgf\math\pgfmath.code.tex)
 \pgffor@iter=\dimen287
 \pgffor@skip=\dimen288
 \pgffor@stack=\toks29
 \pgffor@toks=\toks30
 ))
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex"
+(F:\latex\MikTex\inst\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
 Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryplothandlers.
-code.tex"
+(F:\latex\MikTex\inst\tex\generic\pgf\libraries\pgflibraryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
 \pgf@plot@mark@count=\count293
 \pgfplotmarksize=\dimen289
@@ -2552,8 +1606,7 @@ File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
 \tikznumberofchildren=\count295
 \tikznumberofcurrentchild=\count296
 \tikz@fig@count=\count297
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\modules\pgfmodulematrix.code.tex"
+ (F:\latex\MikTex\inst\tex\generic\pgf\modules\pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
 \pgfmatrixcurrentrow=\count298
 \pgfmatrixcurrentcolumn=\count299
@@ -2561,18 +1614,17 @@ File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
 )
 \tikz@expandcount=\count301
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikz
-librarytopaths.code.tex"
+(F:\latex\MikTex\inst\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryt
+opaths.code.tex
 File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
-)))
-("C:\Program Files\MiKTeX 2.9\tex\latex\titlesec\titletoc.sty"
+))) (F:\latex\MikTex\inst\tex\latex\titlesec\titletoc.sty
 Package: titletoc 2011/12/15 v1.6 TOC entries
 \ttl@leftsep=\dimen296
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption.sty"
+(F:\latex\MikTex\inst\tex\latex\caption\caption.sty
 Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption3.sty"
+(F:\latex\MikTex\inst\tex\latex\caption\caption3.sty
 Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 67.
 \captionmargin=\dimen297
@@ -2586,125 +1638,33 @@ Package caption3 Info: TeX engine: e-TeX on input line 67.
 \c@ContinuedFloat=\count302
 Package caption Info: hyperref package is loaded.
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\natbib\natbib.sty"
->>>>>>> 0f0a363ad0b594adb713edc66e8838bba4d8e783
+(F:\latex\MikTex\inst\tex\latex\natbib\natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
-
-Overfull \hbox (716.93996pt too wide) in paragraph at lines 389--31
-\EU1/TimesNewRoman(0)/m/n/10.54 tion/format +=  subsection/format +=           
-                                                                               
-                                                                               
-                                                                               
-                                                                               
-                                                                               
-                                                                               
-                                 
- []
-
-\bibhang=\skip52
-\bibsep=\skip53
+\bibhang=\skip65
+\bibsep=\skip66
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count292
-))
-(C:\Users\qianjxiang\Documents\GitHub\yx_software-engineering-project\design_ou
-tline\ustcextra.sty
+\c@NAT@ctr=\count303
+)) (ustcextra.sty
 Package: ustcextra 
-<<<<<<< HEAD
- (F:\CTEX\MiKTeX\tex\latex\ams\math\amsmath.sty
-Package: amsmath 2000/07/18 v2.13 AMS math features
-\@mathmargin=\skip54
 
-For additional information on amsmath, use the `?' option.
-(F:\CTEX\MiKTeX\tex\latex\ams\math\amstext.sty
-Package: amstext 2000/06/29 v2.01
-
-(F:\CTEX\MiKTeX\tex\latex\ams\math\amsgen.sty
-File: amsgen.sty 1999/11/30 v2.0
-\@emptytoks=\toks30
-\ex@=\dimen266
-))
-(F:\CTEX\MiKTeX\tex\latex\ams\math\amsbsy.sty
-Package: amsbsy 1999/11/29 v1.2d
-\pmbraise@=\dimen267
-)
-(F:\CTEX\MiKTeX\tex\latex\ams\math\amsopn.sty
-Package: amsopn 1999/12/14 v2.01 operator names
-)
-\inf@bad=\count293
-LaTeX Info: Redefining \frac on input line 211.
-\uproot@=\count294
-\leftroot@=\count295
-LaTeX Info: Redefining \overline on input line 307.
-\classnum@=\count296
-\DOTSCASE@=\count297
-LaTeX Info: Redefining \ldots on input line 379.
-LaTeX Info: Redefining \dots on input line 382.
-LaTeX Info: Redefining \cdots on input line 467.
-\Mathstrutbox@=\box46
-\strutbox@=\box47
-\big@size=\dimen268
-LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
-\macc@depth=\count298
-\c@MaxMatrixCols=\count299
-\dotsspace@=\muskip11
-\c@parentequation=\count300
-\dspbrk@lvl=\count301
-\tag@help=\toks31
-\row@=\count302
-\column@=\count303
-\maxfields@=\count304
-\andhelp@=\toks32
-\eqnshift@=\dimen269
-\alignsep@=\dimen270
-\tagshift@=\dimen271
-\tagwidth@=\dimen272
-\totwidth@=\dimen273
-\lineht@=\dimen274
-\@envbody=\toks33
-\multlinegap=\skip55
-\multlinetaggap=\skip56
-\mathdisplay@stack=\toks34
-LaTeX Info: Redefining \[ on input line 2666.
-LaTeX Info: Redefining \] on input line 2667.
-)
-(F:\CTEX\MiKTeX\tex\latex\ams\classes\amsthm.sty
-Package: amsthm 2004/08/06 v2.20
-\thm@style=\toks35
-\thm@bodyfont=\toks36
-\thm@headfont=\toks37
-\thm@notefont=\toks38
-\thm@headpunct=\toks39
-\thm@preskip=\skip57
-\thm@postskip=\skip58
-\thm@headsep=\skip59
-\dth@everypar=\toks40
-)
-(F:\CTEX\MiKTeX\tex\latex\amsfonts\amssymb.sty
-Package: amssymb 2009/06/22 v3.00
-
-(F:\CTEX\MiKTeX\tex\latex\amsfonts\amsfonts.sty
-Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
-=======
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+(F:\latex\MikTex\inst\tex\latex\amsmath\amsmath.sty
 Package: amsmath 2017/09/02 v2.17a AMS math features
 \@mathmargin=\skip67
 
 For additional information on amsmath, use the `?' option.
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+(F:\latex\MikTex\inst\tex\latex\amsmath\amstext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+(F:\latex\MikTex\inst\tex\latex\amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks31
 \ex@=\dimen304
 ))
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+(F:\latex\MikTex\inst\tex\latex\amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen305
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+(F:\latex\MikTex\inst\tex\latex\amsmath\amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count304
@@ -2745,7 +1705,7 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
 LaTeX Info: Redefining \[ on input line 2817.
 LaTeX Info: Redefining \] on input line 2818.
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\amscls\amsthm.sty"
+(F:\latex\MikTex\inst\tex\latex\amscls\amsthm.sty
 Package: amsthm 2017/10/31 v2.20.4
 \thm@style=\toks36
 \thm@bodyfont=\toks37
@@ -2757,77 +1717,21 @@ Package: amsthm 2017/10/31 v2.20.4
 \thm@headsep=\skip72
 \dth@everypar=\toks41
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+(F:\latex\MikTex\inst\tex\latex\amsfonts\amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+(F:\latex\MikTex\inst\tex\latex\amsfonts\amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
->>>>>>> 0f0a363ad0b594adb713edc66e8838bba4d8e783
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
-(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-\c@theorem=\count305
-\c@definition=\count306
-\c@example=\count307
+\c@theorem=\count316
+\c@definition=\count317
+\c@example=\count318
 
-<<<<<<< HEAD
-(F:\CTEX\MiKTeX\tex\latex\booktabs\booktabs.sty
-Package: booktabs 2005/04/14 v1.61803 publication quality tables
-\heavyrulewidth=\dimen275
-\lightrulewidth=\dimen276
-\cmidrulewidth=\dimen277
-\belowrulesep=\dimen278
-\belowbottomsep=\dimen279
-\aboverulesep=\dimen280
-\abovetopsep=\dimen281
-\cmidrulesep=\dimen282
-\cmidrulekern=\dimen283
-\defaultaddspace=\dimen284
-\@cmidla=\count308
-\@cmidlb=\count309
-\@aboverulesep=\dimen285
-\@belowrulesep=\dimen286
-\@thisruleclass=\count310
-\@lastruleclass=\count311
-\@thisrulewidth=\dimen287
-)
-(F:\CTEX\MiKTeX\tex\latex\tools\longtable.sty
-Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
-\LTleft=\skip60
-\LTright=\skip61
-\LTpre=\skip62
-\LTpost=\skip63
-\LTchunksize=\count312
-\LTcapwidth=\dimen288
-\LT@head=\box48
-\LT@firsthead=\box49
-\LT@foot=\box50
-\LT@lastfoot=\box51
-\LT@cols=\count313
-\LT@rows=\count314
-\c@LT@tables=\count315
-\c@LT@chunks=\count316
-\LT@p@ftn=\toks41
-)
-(F:\CTEX\MiKTeX\tex\latex\algorithm2e\algorithm2e.sty
-Invalid UTF-8 byte or sequence at line 322 replaced by U+FFFD.
-Package: algorithm2e 2008/00/00 v3.10 algorithms environments
-\c@AlgoLine=\count317
-
-(F:\CTEX\MiKTeX\tex\latex\base\ifthen.sty
-Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
-)
-Invalid UTF-8 byte or sequence at line 778 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 780 replaced by U+FFFD.
-
-(F:\CTEX\MiKTeX\tex\latex\tools\xspace.sty
-Package: xspace 2009/10/20 v1.13 Space after command names (DPC,MH)
-)
-(F:\CTEX\MiKTeX\tex\latex\ltxmisc\relsize.sty
-=======
-("C:\Program Files\MiKTeX 2.9\tex\latex\booktabs\booktabs.sty"
+(F:\latex\MikTex\inst\tex\latex\booktabs\booktabs.sty
 Package: booktabs 2005/04/14 v1.61803 publication quality tables
 \heavyrulewidth=\dimen313
 \lightrulewidth=\dimen314
@@ -2847,7 +1751,7 @@ Package: booktabs 2005/04/14 v1.61803 publication quality tables
 \@lastruleclass=\count322
 \@thisrulewidth=\dimen325
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\tools\longtable.sty"
+(F:\latex\MikTex\inst\tex\latex\tools\longtable.sty
 Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
 \LTleft=\skip73
 \LTright=\skip74
@@ -2865,27 +1769,26 @@ Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
 \c@LT@chunks=\count327
 \LT@p@ftn=\toks42
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\algorithm2e\algorithm2e.sty"
+(F:\latex\MikTex\inst\tex\latex\algorithm2e\algorithm2e.sty
 Invalid UTF-8 byte or sequence at line 284 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 299 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 550 replaced by U+FFFD.
 Package: algorithm2e 2017/07/18 v5.2 algorithms environments
 \c@AlgoLine=\count328
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+(F:\latex\MikTex\inst\tex\latex\base\ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
 \algocf@hangindent=\skip77
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\ifoddpage\ifoddpage.sty"
+(F:\latex\MikTex\inst\tex\latex\ifoddpage\ifoddpage.sty
 Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
 \c@checkoddpage=\count329
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\tools\xspace.sty"
+(F:\latex\MikTex\inst\tex\latex\tools\xspace.sty
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\ltxmisc\relsize.sty"
->>>>>>> 0f0a363ad0b594adb713edc66e8838bba4d8e783
+(F:\latex\MikTex\inst\tex\latex\ltxmisc\relsize.sty
 Package: relsize 2003/07/04 ver 3.1
 
 
@@ -2893,77 +1796,6 @@ Package relsize Warning: Failed to get list of font sizes.
 (relsize)                Falling back to old definition. on input line 81.
 
 )
-<<<<<<< HEAD
-********************************************************
-Package `algorithm2e' Release 4.01 -- december 14 2009 --
-- algorithm2e-announce@lirmm.fr mailing list for announcement about releases
-- algorithm2e-discussion@lirmm.fr mailing list for discussion about package
-subscribe by emailing sympa@lirmm.fr with 'subscribe <list> <firstname name>'
-- Author: Christophe Fiorio (fiorio@lirmm.fr)
-********************************************************
-\skiptotal=\skip64
-\skiplinenumber=\skip65
-\skiprule=\skip66
-\skiphlne=\skip67
-\skiptext=\skip68
-\skiplength=\skip69
-\algomargin=\skip70
-\skipalgocfslide=\skip71
-\algowidth=\dimen289
-\inoutsize=\dimen290
-\inoutline=\dimen291
-\interspacetitleruled=\dimen292
-\interspacealgoruled=\dimen293
-\interspacetitleboxruled=\dimen294
-\algocf@inoutbox=\box52
-\algocf@inputbox=\box53
-\AlCapSkip=\skip72
-\AlCapHSkip=\skip73
-\algocf@nlbox=\box54
-\algocf@hangingbox=\box55
-\algocf@capbox=\box56
-\algoheightruledefault=\skip74
-\algoheightrule=\skip75
-\algotitleheightruledefault=\skip76
-\algotitleheightrule=\skip77
-\c@algocfline=\count318
-\c@algocfproc=\count319
-\c@algocf=\count320
-\algocf@algoframe=\box57
-\algocf@algobox=\box58
-Invalid UTF-8 byte or sequence at line 2420 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 2501 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 2509 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 2509 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 2532 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 2584 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 2592 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 2592 replaced by U+FFFD.
-) (F:\CTEX\MiKTeX\tex\latex\listings\listings.sty
-\lst@mode=\count321
-\lst@gtempboxa=\box59
-\lst@token=\toks42
-\lst@length=\count322
-\lst@currlwidth=\dimen295
-\lst@column=\count323
-\lst@pos=\count324
-\lst@lostspace=\dimen296
-\lst@width=\dimen297
-\lst@newlines=\count325
-\lst@lineno=\count326
-\lst@maxwidth=\dimen298
-
-(F:\CTEX\MiKTeX\tex\latex\listings\lstmisc.sty
-File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
-\c@lstnumber=\count327
-\lst@skipnumbers=\count328
-\lst@framebox=\box60
-)
-(F:\CTEX\MiKTeX\tex\latex\listings\listings.cfg
-File: listings.cfg 2007/02/22 1.4 listings configuration
-))
-Package: listings 2007/02/22 1.4 (Carsten Heinz)
-=======
 \skiptotal=\skip78
 \skiplinenumber=\skip79
 \skiprule=\skip80
@@ -2999,7 +1831,7 @@ Package: listings 2007/02/22 1.4 (Carsten Heinz)
 \c@algocf=\count332
 \algocf@algoframe=\box76
 \algocf@algobox=\box77
-) ("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.sty"
+) (F:\latex\MikTex\inst\tex\latex\listings\listings.sty
 \lst@mode=\count333
 \lst@gtempboxa=\box78
 \lst@token=\toks43
@@ -3013,38 +1845,33 @@ Package: listings 2007/02/22 1.4 (Carsten Heinz)
 \lst@lineno=\count338
 \lst@maxwidth=\dimen336
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
+(F:\latex\MikTex\inst\tex\latex\listings\lstmisc.sty
 File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
 \c@lstnumber=\count339
 \lst@skipnumbers=\count340
 \lst@framebox=\box79
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.cfg"
+(F:\latex\MikTex\inst\tex\latex\listings\listings.cfg
 File: listings.cfg 2015/06/04 1.6 listings configuration
 ))
 Package: listings 2015/06/04 1.6 (Carsten Heinz)
 )
-("C:\Program Files\MiKTeX 2.9\tex\xelatex\xecjk\xeCJK-listings.sty"
+(F:\latex\MikTex\inst\tex\xelatex\xecjk\xeCJK-listings.sty
 Package: xeCJK-listings 2018/04/07 v3.7.0 xeCJK patch file for listings
 \l__xeCJK_listings_max_char_int=\count341
 \l__xeCJK_listings_flag_int=\count342
->>>>>>> 0f0a363ad0b594adb713edc66e8838bba4d8e783
 )
 
 LaTeX Warning: Unused global option(s):
-    [bachelor,zihao=-4].
+    [bachelor].
 
-
-<<<<<<< HEAD
-(C:\Users\qianjxiang\Documents\GitHub\yx_software-engineering-project\design_ou
-tline\main.aux
-=======
-LaTeX Warning: Label `fig:figure1' multiply defined.
->>>>>>> 0f0a363ad0b594adb713edc66e8838bba4d8e783
+(main.aux
 
 LaTeX Warning: Label `fig:figure1' multiply defined.
 
 )
+\openout1 = `main.aux'.
+
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
 LaTeX Font Info:    ... okay on input line 24.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
@@ -3053,66 +1880,40 @@ LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
 LaTeX Font Info:    ... okay on input line 24.
 LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
 LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
 LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
 LaTeX Font Info:    ... okay on input line 24.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
 LaTeX Font Info:    ... okay on input line 24.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
 LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 24.
-LaTeX Font Info:    Try loading font information for T3+cmr on input line 24.
- (F:\CTEX\MiKTeX\tex\latex\tipa\t3cmr.fd
-File: t3cmr.fd 2001/12/31 TIPA font definitions
-)
-LaTeX Font Info:    ... okay on input line 24.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 24.
 LaTeX Font Info:    ... okay on input line 24.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 24.
 LaTeX Font Info:    ... okay on input line 24.
-Requested font "Times New Roman/ICU:script=latn;language=DFLT;mapping=tex-text;
-" at 12.045pt
- -> C:/WINDOWS/Fonts/times.ttf
-\AtBeginShipoutBox=\box61
+ ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 24.
+\AtBeginShipoutBox=\box80
 Package hyperref Info: Link coloring OFF on input line 24.
 
-<<<<<<< HEAD
-(F:\CTEX\MiKTeX\tex\latex\hyperref\nameref.sty
-Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
-
-(F:\CTEX\MiKTeX\tex\generic\oberdiek\gettitlestring.sty
-Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
-=======
-("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+(F:\latex\MikTex\inst\tex\latex\hyperref\nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+(F:\latex\MikTex\inst\tex\generic\oberdiek\gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
->>>>>>> 0f0a363ad0b594adb713edc66e8838bba4d8e783
 )
-\c@section@level=\count329
+\c@section@level=\count343
 )
 LaTeX Info: Redefining \ref on input line 24.
 LaTeX Info: Redefining \pageref on input line 24.
 LaTeX Info: Redefining \nameref on input line 24.
-<<<<<<< HEAD
-=======
-
-(main.out) (main.out)
+ (main.out)
+(main.out)
 \@outlinefile=\write4
 \openout4 = `main.out'.
 
->>>>>>> 0f0a363ad0b594adb713edc66e8838bba4d8e783
 
-(C:\Users\qianjxiang\Documents\GitHub\yx_software-engineering-project\design_ou
-tline\main.out)
-(C:\Users\qianjxiang\Documents\GitHub\yx_software-engineering-project\design_ou
-tline\main.out)
-\@outlinefile=\write4
- (F:\CTEX\MiKTeX\tex\generic\oberdiek\se-ascii-print.def
-File: se-ascii-print.def 2010/03/01 v1.8 stringenc: Printable ASCII characters
-)
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
 * driver: pdftex
@@ -3131,12 +1932,12 @@ File: se-ascii-print.def 2010/03/01 v1.8 stringenc: Printable ASCII characters
 * \topmargin=-21.05537pt
 * \headheight=0.0pt
 * \headsep=21.05519pt
-* \topskip=10.0pt
+* \topskip=12.0pt
 * \footskip=22.47748pt
-* \marginparwidth=61.0pt
+* \marginparwidth=38.0pt
 * \marginparsep=7.0pt
 * \columnsep=10.0pt
-* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -3151,238 +1952,54 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: listings package is loaded.
 Package caption Info: longtable package is loaded.
 
-<<<<<<< HEAD
-(F:\CTEX\MiKTeX\tex\latex\caption\ltcaption.sty
-Package: ltcaption 2011/09/12 v1.3 longtable captions (AR)
-=======
-("C:\Program Files\MiKTeX 2.9\tex\latex\caption\ltcaption.sty"
+(F:\latex\MikTex\inst\tex\latex\caption\ltcaption.sty
 Package: ltcaption 2013/06/09 v1.4-94 longtable captions (AR)
->>>>>>> 0f0a363ad0b594adb713edc66e8838bba4d8e783
 )
 Package caption Info: End \AtBeginDocument code.
-\c@lstlisting=\count330
+\c@lstlisting=\count344
+LaTeX Font Info:    Try loading font information for U+msa on input line 35.
 
-
-LaTeX Font Warning: Font shape `EU1/TimesNewRoman(0)/m/sl' undefined
-(Font)              using `EU1/TimesNewRoman(0)/m/n' instead on input line 28.
-
-<<<<<<< HEAD
-
-Overfull \vbox (8.13979pt too high) has occurred while \output is active []
-
-
-[1
-
-]
-Requested font "Times New Roman/ICU:script=latn;language=DFLT;mapping=tex-text;
-" at 22.08pt
- -> C:/WINDOWS/Fonts/times.ttf
-Requested font "Times New Roman/B/ICU:script=latn;language=DFLT;mapping=tex-tex
-t;" at 22.08pt
- -> C:/WINDOWS/Fonts/timesbd.ttf
-Requested font "SimSun" at 22.08pt
- -> F:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf
-Requested font "SimSun/ICU" at 22.08pt
- -> F:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf
-\g_fontspec_family_SimSun_int=\count331
-Requested font "SimHei/ICU" at 22.08pt
- -> C:/WINDOWS/Fonts/simhei.ttf
-Requested font "[SIMKAI.TTF]/ICU" at 22.08pt
- -> C:/WINDOWS/Fonts/SIMKAI.TTF
-Requested font "SimHei/I/ICU" at 22.08pt
- -> C:/WINDOWS/Fonts/simhei.ttf
-=======
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+(F:\latex\MikTex\inst\tex\latex\amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 35.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+(F:\latex\MikTex\inst\tex\latex\amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
 
-]
-(chapters/intro.tex
+] (chapters/intro.tex
 第1章
 \g__fontspec_family_MicrosoftYaHei_int=\count345
->>>>>>> 0f0a363ad0b594adb713edc66e8838bba4d8e783
 .................................................
 . fontspec info: "no-font-shape"
 . 
-. Could not resolve font SimHei/I (it probably doesn't exist).
+. Could not resolve font "Microsoft YaHei Bold/I" (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font "Microsoft YaHei/I" (it probably doesn't exist).
 .................................................
 .................................................
 . fontspec info: "defining-font"
 . 
-. Font family 'SimSun(0)' created for font 'SimSun' with options
-. [Ligatures=TeX,BoldFont={SimHei},ItalicFont={[SIMKAI.TTF]}].
-. 
-. This font family consists of the following shapes:
-. 
-. * 'normal' with NFSS spec.:
-. <->"SimSun/ICU:script=latn;language=DFLT;mapping=tex-text;"
-. 
-. * 'bold' with NFSS spec.:
-. <->"SimHei/ICU:script=latn;language=DFLT;mapping=tex-text;"
-. 
-. * 'italic' with NFSS spec.:
-. <->"[SIMKAI.TTF]/ICU:script=latn;language=DFLT;mapping=tex-text;"
+. Font family 'MicrosoftYaHei(0)' created for font 'Microsoft YaHei' with
+. options [Script={CJK},BoldFont={* Bold}].
+.  
+.  This font family consists of the following NFSS series/shapes:
+.  
+. - 'normal' (m/n) with NFSS spec.: <->"Microsoft
+. YaHei/OT:script=hani;language=DFLT;"
+. - 'small caps'  (m/sc) with NFSS spec.: 
+. - 'bold' (bx/n) with NFSS spec.: <->"Microsoft YaHei
+. Bold/OT:script=hani;language=DFLT;"
+. - 'bold small caps'  (bx/sc) with NFSS spec.: 
+. - 'bold italic' (bx/it) with NFSS spec.: <->"Microsoft
+. YaHei/BI/OT:script=hani;language=DFLT;"
+. - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
 .................................................
-Requested font "SimHei/ICU:script=latn;language=DFLT;mapping=tex-text;" at 22.0
-8pt
- -> C:/WINDOWS/Fonts/simhei.ttf
-LaTeX Font Info:    Calculating math sizes for size <12.045> on input line 35.
-Requested font "cmr12" at 12.045pt
- -> cmr12
-Requested font "cmr8" at 8.43146pt
- -> cmr8
-Requested font "cmr6" at 6.02249pt
- -> cmr6
-Requested font "cmmi12" at 12.045pt
- -> cmmi12
-Requested font "cmmi8" at 8.43146pt
- -> cmmi8
-Requested font "cmmi6" at 6.02249pt
- -> cmmi6
-Requested font "cmsy10" at 12.045pt
- -> cmsy10
-Requested font "cmsy8" at 8.43146pt
- -> cmsy8
-Requested font "cmsy6" at 6.02249pt
- -> cmsy6
-Requested font "cmex10" at 12.045pt
- -> cmex10
-Requested font "cmex8" at 8.43146pt
- -> cmex8
-Requested font "cmex7" at 6.02249pt
- -> cmex7
-LaTeX Font Info:    Try loading font information for U+msa on input line 35.
- (F:\CTEX\MiKTeX\tex\latex\amsfonts\umsa.fd
-File: umsa.fd 2009/06/22 v3.00 AMS symbols A
-)
-Requested font "msam10" at 12.045pt
- -> msam10
-Requested font "msam10" at 8.43146pt
- -> msam10
-Requested font "msam7" at 6.02249pt
- -> msam7
-LaTeX Font Info:    Try loading font information for U+msb on input line 35.
-
-(F:\CTEX\MiKTeX\tex\latex\amsfonts\umsb.fd
-File: umsb.fd 2009/06/22 v3.00 AMS symbols B
-)
-Requested font "msbm10" at 12.045pt
- -> msbm10
-Requested font "msbm10" at 8.43146pt
- -> msbm10
-Requested font "msbm7" at 6.02249pt
- -> msbm7
-Requested font "SimSun" at 12.045pt
- -> F:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf
-Requested font "SimSun/ICU" at 12.045pt
- -> F:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'SimSun(0)' created for font 'SimSun' with options
-. [Ligatures=TeX,BoldFont={SimHei},ItalicFont={[SIMKAI.TTF]}].
-. 
-. This font family consists of the following shapes:
-.................................................
-Requested font "SimSun/ICU:script=latn;language=DFLT;mapping=tex-text;" at 12.0
-45pt
- -> F:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf
- [1
-
-]
-(C:\Users\qianjxiang\Documents\GitHub\yx_software-engineering-project\design_ou
-tline\chapters/intro.tex
-第一章
-Requested font "Times New Roman/B/ICU:script=latn;language=DFLT;mapping=tex-tex
-t;" at 15.06pt
- -> C:/WINDOWS/Fonts/timesbd.ttf
-Requested font "SimSun" at 15.06pt
- -> F:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf
-Requested font "SimSun/ICU" at 15.06pt
- -> F:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'SimSun(0)' created for font 'SimSun' with options
-. [Ligatures=TeX,BoldFont={SimHei},ItalicFont={[SIMKAI.TTF]}].
-. 
-. This font family consists of the following shapes:
-.................................................
-<<<<<<< HEAD
-Requested font "SimHei/ICU:script=latn;language=DFLT;mapping=tex-text;" at 15.0
-6pt
- -> C:/WINDOWS/Fonts/simhei.ttf
-)
-(C:\Users\qianjxiang\Documents\GitHub\yx_software-engineering-project\design_ou
-tline\chapters/overview.tex
-Requested font "Times New Roman/ICU:script=latn;language=DFLT;mapping=tex-text;
-" at 9.03pt
- -> C:/WINDOWS/Fonts/times.ttf
-Requested font "SimSun" at 9.03pt
- -> F:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf
-Requested font "SimSun/ICU" at 9.03pt
- -> F:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'SimSun(0)' created for font 'SimSun' with options
-. [Ligatures=TeX,BoldFont={SimHei},ItalicFont={[SIMKAI.TTF]}].
-. 
-. This font family consists of the following shapes:
-.................................................
-Requested font "SimSun/ICU:script=latn;language=DFLT;mapping=tex-text;" at 9.03
-pt
- -> F:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf
-
-Overfull \vbox (7.44269pt too high) has occurred while \output is active []
-
-
-[1
-
-
-
-]
-Overfull \vbox (7.44269pt too high) has occurred while \output is active []
-
-
-[2]
-第二章
-Requested font "Times New Roman/ICU:script=latn;language=DFLT;mapping=tex-text;
-" at 12.05pt
- -> C:/WINDOWS/Fonts/times.ttf
-Requested font "Times New Roman/B/ICU:script=latn;language=DFLT;mapping=tex-tex
-t;" at 12.05pt
- -> C:/WINDOWS/Fonts/timesbd.ttf
-Requested font "SimSun" at 12.05pt
- -> F:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf
-Requested font "SimSun/ICU" at 12.05pt
- -> F:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'SimSun(0)' created for font 'SimSun' with options
-. [Ligatures=TeX,BoldFont={SimHei},ItalicFont={[SIMKAI.TTF]}].
-. 
-. This font family consists of the following shapes:
-.................................................
-Requested font "SimHei/ICU:script=latn;language=DFLT;mapping=tex-text;" at 12.0
-5pt
- -> C:/WINDOWS/Fonts/simhei.ttf
-
-Overfull \vbox (7.44269pt too high) has occurred while \output is active []
-
-
-[3
-
-]
-Overfull \vbox (7.44269pt too high) has occurred while \output is active []
-=======
 ) (chapters/overview.tex
 Overfull \vbox (7.44577pt too high) has occurred while \output is active []
 
@@ -3397,7 +2014,7 @@ Overfull \vbox (7.44577pt too high) has occurred while \output is active []
 
 [2]
 第2章
-
+) (chapters/design-overall.tex
 Overfull \vbox (7.44577pt too high) has occurred while \output is active []
 
 
@@ -3408,14 +2025,6 @@ Overfull \vbox (7.44577pt too high) has occurred while \output is active []
 
 
 [4]
-Overfull \vbox (7.44577pt too high) has occurred while \output is active []
-
-
-[5]) (chapters/design-overall.tex
-Overfull \vbox (7.44577pt too high) has occurred while \output is active []
-
-
-[6]
 第3章
 File: figures/client.pdf Graphic file (type pdf)
 <use figures/client.pdf>
@@ -3423,39 +2032,44 @@ File: figures/client.pdf Graphic file (type pdf)
 Overfull \vbox (7.44577pt too high) has occurred while \output is active []
 
 
-[7
+[5
 
 ]
 Overfull \vbox (7.44577pt too high) has occurred while \output is active []
 
 
-[8]) (chapters/design-interface.tex
+[6]
+Overfull \hbox (10.98804pt too wide) in paragraph at lines 69--84
+ [][] 
+ []
+
+) (chapters/design-interface.tex
 Overfull \vbox (7.44577pt too high) has occurred while \output is active []
 
 
-[9]
+[7]
 第4章
 
 Overfull \vbox (7.44577pt too high) has occurred while \output is active []
 
 
-[10
+[8
 
 ]
 Overfull \vbox (7.44577pt too high) has occurred while \output is active []
 
 
-[11]) (chapters/design-data-structure.tex
+[9]) (chapters/design-data-structure.tex
 Overfull \vbox (7.44577pt too high) has occurred while \output is active []
 
 
-[12]
+[10]
 第5章
 
 Overfull \vbox (7.44577pt too high) has occurred while \output is active []
 
 
-[13
+[11
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 46--47
@@ -3471,11 +2085,11 @@ Overfull \hbox (41.379pt too wide) in paragraph at lines 63--76
 Overfull \vbox (7.44577pt too high) has occurred while \output is active []
 
 
-[14]
+[12]
 Overfull \vbox (7.44577pt too high) has occurred while \output is active []
 
 
-[15]
+[13]
 第6章
 File: figures/fig_db.pdf Graphic file (type pdf)
 <use figures/fig_db.pdf>
@@ -3483,13 +2097,13 @@ File: figures/fig_db.pdf Graphic file (type pdf)
 Overfull \vbox (7.44577pt too high) has occurred while \output is active []
 
 
-[16
+[14
 
 ]) (chapters/design-ui.tex
 Overfull \vbox (7.44577pt too high) has occurred while \output is active []
 
 
-[17]
+[15]
 第7章
 File: figures/ui_signin.pdf Graphic file (type pdf)
 <use figures/ui_signin.pdf>
@@ -3504,577 +2118,33 @@ Overfull \hbox (9.67381pt too wide) in paragraph at lines 13--14
 Overfull \vbox (7.44577pt too high) has occurred while \output is active []
 
 
-[18
+[16
 
 ]
 File: figures/ui_chat.pdf Graphic file (type pdf)
 <use figures/ui_chat.pdf>
->>>>>>> 0f0a363ad0b594adb713edc66e8838bba4d8e783
 
 Overfull \hbox (9.67381pt too wide) in paragraph at lines 18--19
  [][] 
  []
 
-<<<<<<< HEAD
-[4]
-Overfull \vbox (7.44269pt too high) has occurred while \output is active []
-
-=======
 
 Overfull \vbox (7.44577pt too high) has occurred while \output is active []
->>>>>>> 0f0a363ad0b594adb713edc66e8838bba4d8e783
 
-[5])
-(C:\Users\qianjxiang\Documents\GitHub\yx_software-engineering-project\design_ou
-tline\chapters/design-overall.tex
-Overfull \vbox (7.44269pt too high) has occurred while \output is active []
 
-<<<<<<< HEAD
-
-[6]
-第三章
-File: figures/client.pdf Graphic file (type QTm)
-<use  "figures/client.pdf" >
-Overfull \vbox (7.44269pt too high) has occurred while \output is active []
-=======
-[19]
+[17]
 File: figures/ui_message.pdf Graphic file (type pdf)
 <use figures/ui_message.pdf>
->>>>>>> 0f0a363ad0b594adb713edc66e8838bba4d8e783
 
 Overfull \hbox (9.67381pt too wide) in paragraph at lines 23--24
  [][] 
  []
 
-<<<<<<< HEAD
-[7
-
-]
-Overfull \vbox (7.44269pt too high) has occurred while \output is active []
-
-
-[8]
-Requested font "Times New Roman/B/ICU:script=latn;language=DFLT;mapping=tex-tex
-t;" at 12.045pt
- -> C:/WINDOWS/Fonts/timesbd.ttf
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'SimSun(0)' created for font 'SimSun' with options
-. [Ligatures=TeX,BoldFont={SimHei},ItalicFont={[SIMKAI.TTF]}].
-. 
-. This font family consists of the following shapes:
-.................................................
-Requested font "SimHei/ICU:script=latn;language=DFLT;mapping=tex-text;" at 12.0
-45pt
- -> C:/WINDOWS/Fonts/simhei.ttf
-)
-(C:\Users\qianjxiang\Documents\GitHub\yx_software-engineering-project\design_ou
-tline\chapters/design-interface.tex
-Overfull \vbox (7.44269pt too high) has occurred while \output is active []
-
-
-[9]
-第四章
-
-Overfull \vbox (7.44269pt too high) has occurred while \output is active []
-
-
-[10
-
-]
-Overfull \vbox (7.44269pt too high) has occurred while \output is active []
-
-
-[11])
-(C:\Users\qianjxiang\Documents\GitHub\yx_software-engineering-project\design_ou
-tline\chapters/design-data-structure.tex
-Overfull \vbox (7.44269pt too high) has occurred while \output is active []
-
-
-[12]
-第五章
-! Missing $ inserted.
-<inserted text> 
-                $
-l.32 ^^I^^I\item 字符串1  byte[n_
-                                    1]
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-! LaTeX Error: Command \item invalid in math mode.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.33 ^^I^^I\item
-                 分隔符   byte[1] 0x00
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.33 ^^I^^I\item 分
-                    隔符   byte[1] 0x00
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.33 ^^I^^I\item 分
-                    隔符   byte[1] 0x00
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Command \item invalid in math mode.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.34 ^^I^^I\item
-                 字符串2  byte[n_2]
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.34 ^^I^^I\item 字
-                    符串2  byte[n_2]
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.34 ^^I^^I\item 字
-                    符串2  byte[n_2]
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-Missing character: There is no 分 in font cmr12!
-Missing character: There is no 隔 in font cmr12!
-Missing character: There is no 符 in font cmr12!
-! Extra }, or forgotten \endgroup.
-\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
-                                                  \fi 
-l.34 ^^I^^I\item 字
-                    符串2  byte[n_2]
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-
-Overfull \vbox (7.44269pt too high) has occurred while \output is active []
-
-
-[13
-
-]
-! Missing $ inserted.
-<inserted text> 
-                $
-l.34 ^^I^^I\item 字符串2  byte[n_
-                                    2]
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-! LaTeX Error: Command \item invalid in math mode.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.35 ^^I^^I\item
-                 分隔符   byte[1] 0x00
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.35 ^^I^^I\item 分
-                    隔符   byte[1] 0x00
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.35 ^^I^^I\item 分
-                    隔符   byte[1] 0x00
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Command \item invalid in math mode.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.36 ^^I^^I\item
-                 字符串3  byte[n_2]
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.36 ^^I^^I\item 字
-                    符串3  byte[n_2]
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.36 ^^I^^I\item 字
-                    符串3  byte[n_2]
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-Missing character: There is no 分 in font cmr12!
-Missing character: There is no 隔 in font cmr12!
-Missing character: There is no 符 in font cmr12!
-! Extra }, or forgotten \endgroup.
-\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
-                                                  \fi 
-l.36 ^^I^^I\item 字
-                    符串3  byte[n_2]
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.36 ^^I^^I\item 字符串3  byte[n_
-                                    2]
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-! LaTeX Error: Command \item invalid in math mode.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.37 ^^I^^I\item
-                 ...
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.37 ^^I^^I\item .
-                  ..
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.37 ^^I^^I\item .
-                  ..
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Command \item invalid in math mode.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.38 ^^I^^I\item
-                 字符串m  byte[n_m]
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.38 ^^I^^I\item 字
-                    符串m  byte[n_m]
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.38 ^^I^^I\item 字
-                    符串m  byte[n_m]
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Extra }, or forgotten \endgroup.
-\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
-                                                  \fi 
-l.38 ^^I^^I\item 字
-                    符串m  byte[n_m]
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.38 ^^I^^I\item 字符串m  byte[n_
-                                    m]
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-! LaTeX Error: Command \end{itemize} invalid in math mode.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.39 \end{itemize}
-                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.39 \end{itemize}
-                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.39 \end{itemize}
-                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.39 \end{itemize}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-
-! LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.45 ^^I\item 列
-                 表 Map<String,List<Packet>> Packet:数据包结构\\
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \hbox (badness 10000) detected at line 45
-[][]
- []
-
-
-Overfull \hbox (41.379pt too wide) in paragraph at lines 61--74
- [][] 
- []
-
-)
-(C:\Users\qianjxiang\Documents\GitHub\yx_software-engineering-project\design_ou
-tline\chapters/design-database.tex
-Overfull \vbox (7.44269pt too high) has occurred while \output is active []
-
-
-[14]
-Overfull \vbox (7.44269pt too high) has occurred while \output is active []
-
-
-[15]
-第六章
-File: figures/fig_db.pdf Graphic file (type QTm)
-<use  "figures/fig_db.pdf" >
-Overfull \vbox (7.44269pt too high) has occurred while \output is active []
-
-
-[16
-
-])
-(C:\Users\qianjxiang\Documents\GitHub\yx_software-engineering-project\design_ou
-tline\chapters/design-ui.tex
-Overfull \vbox (7.44269pt too high) has occurred while \output is active []
-
-
-[17]
-第七章
-File: figures/ui_signin.pdf Graphic file (type QTm)
-<use  "figures/ui_signin.pdf" >
-File: figures/ui_contacters.pdf Graphic file (type QTm)
- <use  "figures/ui_contacters.pdf" >
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-File: figures/ui_chat.pdf Graphic file (type QTm)
-<use  "figures/ui_chat.pdf" >
-Overfull \vbox (7.44269pt too high) has occurred while \output is active []
-
-
-[18
-
-]
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-! LaTeX Error: File `ui_messages' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.24 ^^I\includegraphics[width=10cm]{ui_messages}
-                                                 
-I could not locate the file with any of these extensions:
-.pdf,.eps,.ps,.png,.jpg,.bmp,.pict,.tif,.psd,.mac,.sga,.tga,.gif
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-File: figures/ui_find.pdf Graphic file (type QTm)
-<use  "figures/ui_find.pdf" >
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-)
-(C:\Users\qianjxiang\Documents\GitHub\yx_software-engineering-project\design_ou
-tline\chapters/design-error-handling.tex
-Overfull \vbox (7.44269pt too high) has occurred while \output is active []
-
-
-[19]
-Overfull \vbox (7.44269pt too high) has occurred while \output is active []
-
-
-[20]
-Overfull \vbox (7.44269pt too high) has occurred while \output is active []
-
-
-[21]
-第八章
-)
-(C:\Users\qianjxiang\Documents\GitHub\yx_software-engineering-project\design_ou
-tline\chapters/design-security.tex
-Overfull \vbox (7.44269pt too high) has occurred while \output is active []
-
-
-[22
-
-]
-第九章
-)
-(C:\Users\qianjxiang\Documents\GitHub\yx_software-engineering-project\design_ou
-tline\chapters/design-maintainance.tex
-Overfull \vbox (7.44269pt too high) has occurred while \output is active []
-
-
-[23
-
-]
-第十章
-File: figures/maintain.pdf Graphic file (type QTm)
-<use  "figures/maintain.pdf" >)
-(C:\Users\qianjxiang\Documents\GitHub\yx_software-engineering-project\design_ou
-tline\main.bbl
-Overfull \vbox (7.44269pt too high) has occurred while \output is active []
-
-
-[24
-
-]
-! Undefined control sequence.
-\thebibliography ...\ifustc@opt@bachelor \ctexset 
-                                                  {chapter/format += \zihao ...
-l.2 \begin{thebibliography}{3}
-                              
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-Requested font "Times New Roman/ICU:script=latn;language=DFLT;mapping=tex-text;
-" at 18.07pt
- -> C:/WINDOWS/Fonts/times.ttf
-=======
 
 Overfull \vbox (7.44577pt too high) has occurred while \output is active []
 
 
-[20]
+[18]
 File: figures/ui_find.pdf Graphic file (type pdf)
 <use figures/ui_find.pdf>
 
@@ -4086,35 +2156,25 @@ Overfull \hbox (9.67381pt too wide) in paragraph at lines 28--29
 Overfull \vbox (7.44577pt too high) has occurred while \output is active []
 
 
-[21]) (chapters/design-error-handling.tex
+[19]) (chapters/design-error-handling.tex
 Overfull \vbox (7.44577pt too high) has occurred while \output is active []
 
 
-[22]
+[20]
 第8章
 ) (chapters/design-security.tex
-Overfull \hbox (36.88892pt too wide) in paragraph at lines 20--1
-[]\TU/SimSun(0)/m/n/12.045 如 果 服 务 器 出 现 故 障，|  重 启 一 次。| \TU/TimesNewRoman(0)/
-m/n/12.045 »»»> 29d41c134fbbe1596db211db949e2cd5634007bb
- []
-
-
 Overfull \vbox (7.44577pt too high) has occurred while \output is active []
 
 
-[23
+[21
 
 ]
-Overfull \vbox (7.44577pt too high) has occurred while \output is active []
-
-
-[24]
 第9章
 ) (chapters/design-maintainance.tex
 Overfull \vbox (7.44577pt too high) has occurred while \output is active []
 
 
-[25
+[22
 
 ]
 第10章
@@ -4124,115 +2184,34 @@ File: figures/maintain.pdf Graphic file (type pdf)
 Overfull \vbox (7.44577pt too high) has occurred while \output is active []
 
 
-[26
+[23
 
 ]
 Overfull \vbox (7.44577pt too high) has occurred while \output is active []
->>>>>>> 0f0a363ad0b594adb713edc66e8838bba4d8e783
 
-Overfull \vbox (7.44269pt too high) has occurred while \output is active []
 
-<<<<<<< HEAD
+[24
 
-[25
-
-]
-Requested font "Times New Roman/ICU:script=latn;language=DFLT;mapping=tex-text;
-" at 10.53937pt
- -> C:/WINDOWS/Fonts/times.ttf
-Requested font "Times New Roman/I/ICU:script=latn;language=DFLT;mapping=tex-tex
-t;" at 10.53937pt
- -> C:/WINDOWS/Fonts/timesi.ttf
-Requested font "cmr10" at 10.53937pt
- -> cmr10
-Requested font "cmr7" at 7.37756pt
- -> cmr7
-Requested font "cmr5" at 5.26968pt
- -> cmr5
-Requested font "cmmi10" at 10.53937pt
- -> cmmi10
-Requested font "cmmi7" at 7.37756pt
- -> cmmi7
-Requested font "cmmi5" at 5.26968pt
- -> cmmi5
-Requested font "cmsy10" at 10.53937pt
- -> cmsy10
-Requested font "cmsy7" at 7.37756pt
- -> cmsy7
-Requested font "cmsy5" at 5.26968pt
- -> cmsy5
-Requested font "cmex10" at 10.53937pt
- -> cmex10
-Requested font "cmex7" at 7.37756pt
- -> cmex7
-Requested font "cmex7" at 5.26968pt
- -> cmex7
-Requested font "msam10" at 10.53937pt
- -> msam10
-Requested font "msam7" at 7.37756pt
- -> msam7
-Requested font "msam5" at 5.26968pt
- -> msam5
-Requested font "msbm10" at 10.53937pt
- -> msbm10
-Requested font "msbm7" at 7.37756pt
- -> msbm7
-Requested font "msbm5" at 5.26968pt
- -> msbm5
-Requested font "Times New Roman/ICU:script=latn;language=DFLT;mapping=tex-text;
-" at 7.37756pt
- -> C:/WINDOWS/Fonts/times.ttf
-
-Overfull \vbox (7.44269pt too high) has occurred while \output is active []
-
-=======
-[27
->>>>>>> 0f0a363ad0b594adb713edc66e8838bba4d8e783
-
-[26
 
 ])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 71.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 71.
-<<<<<<< HEAD
-
-(C:\Users\qianjxiang\Documents\GitHub\yx_software-engineering-project\design_ou
-tline\main.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 71.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 71.
-
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-=======
  (main.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 71.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 71.
->>>>>>> 0f0a363ad0b594adb713edc66e8838bba4d8e783
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-<<<<<<< HEAD
- ) 
-Here is how much of TeX's memory you used:
- 33961 strings out of 430478
- 634214 string characters out of 3191502
- 694554 words of memory out of 3000000
- 36472 multiletter control sequences out of 15000+200000
- 13409 words of font info for 110 fonts, out of 3000000 for 9000
- 14 hyphenation exceptions out of 8191
- 63i,14n,94p,896b,635s stack positions out of 5000i,500n,10000p,200000b,50000s
-=======
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 71.
  ) 
 Here is how much of TeX's memory you used:
- 37877 strings out of 427836
- 755497 string characters out of 3152479
- 840593 words of memory out of 3000000
- 41286 multiletter control sequences out of 15000+200000
+ 37853 strings out of 427836
+ 753015 string characters out of 3153802
+ 832501 words of memory out of 3000000
+ 41262 multiletter control sequences out of 15000+200000
  540419 words of font info for 109 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
  62i,14n,70p,10492b,539s stack positions out of 5000i,500n,10000p,200000b,50000s
->>>>>>> 0f0a363ad0b594adb713edc66e8838bba4d8e783
 
-Output written on main.pdf (28 pages).
+Output written on main.pdf (25 pages).
