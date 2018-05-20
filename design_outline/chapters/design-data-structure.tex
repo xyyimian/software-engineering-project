@@ -29,20 +29,22 @@
 	\begin{itemize}
 		\item 消息类型 byte[1]
 		\item 消息长度 byte[2]
-		\item 字符串1  byte[n_1]
+		\item 字符串1  byte[n1]
 		\item 分隔符   byte[1] 0x00 
-		\item 字符串2  byte[n_2]
+		\item 字符串2  byte[n2]
 		\item 分隔符   byte[1] 0x00
-		\item 字符串3  byte[n_2]
+		\item 字符串3  byte[n2]
 		\item ...
-		\item 字符串m  byte[n_m]
+		\item 字符串m  byte[nm]
 \end{itemize}	
 联系人列表
 \begin{itemize}
 	\item 列表 List<String>
 \end{itemize}
 未收消息列表
-	\item 列表 Map<String,List<Packet>> Packet:数据包结构\\
+	\begin{itemize}
+		\item 列表 Map<String,List<Packet>> Packet:数据包结构\\
+	\end{itemize}
 	表示一个值是数据包列表的字典，键是对应的联系人。
 \subsection{服务器端数据结构}
 	同客户端，并且加上以下：\\
