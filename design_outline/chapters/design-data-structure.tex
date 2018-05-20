@@ -1,32 +1,74 @@
 \chapter{数据结构设计}
 \section{逻辑结构设计}
 \subsection{用户管理系统数据结构设计}
-讲述本系统内需要什么数据结构。这指的是程序运行过程中维护的数据结构。只是举个例子，此处应和3.3一致。
+用户信息
+	\begin{itemize}  	
+		\item 用户名 varchar(48)
+		\item 密码盐 char(10)
+		\item MD5值 char(32)
+	\end{itemize}
+用户关系信息
+	\begin{itemize}  	
+		\item 用户名1 varchar(48)
+		\item 用户名2 varchar(48)
+\end{itemize}
+离线消息信息
+	\begin{itemize}
+		\item 发送用户 varchar(48)
+		\item 接收用户 varchar(48)
+		\item 信息     varchar(1024)
+		\item 发送时间 datetime
+	\end{itemize}	
 \subsection{客户端数据结构}
-
-\subsection{用户端数据结构}
-
+数据包
+	\begin{itemize}
+		\item 消息类型 MessageType
+		\item 字符串列表 List<String>
+	\end{itemize}	
+数据包序列化结构
+	\begin{itemize}
+		\item 消息类型 byte[1]
+		\item 消息长度 byte[2]
+		\item 字符串1  byte[n_1]
+		\item 分隔符   byte[1] 0x00 
+		\item 字符串2  byte[n_2]
+		\item 分隔符   byte[1] 0x00
+		\item 字符串3  byte[n_2]
+		\item ...
+		\item 字符串m  byte[n_m]
+\end{itemize}	
+联系人列表
+\begin{itemize}
+	\item 列表 List<String>
+\end{itemize}
+未收消息列表
+	\item 列表 Map<String,List<Packet>> Packet:数据包结构\\
+	表示一个值是数据包列表的字典，键是对应的联系人。
+\subsection{服务器端数据结构}
+	同客户端，并且加上以下：\\
+	连接列表 List<Socket> \\
+	连接字典 Map<username,Socket>\\
+	IP字典  Map<IP,Socket>\\
+	连接字典反向 Map<Socket,username>
 \section{物理结构设计}
-各数据结构无特殊物理结构要求。（如果有，比如说hadoop等，应当具体说明）
+	数据包都转换成字节数组。
 
 \section{数据结构与程序模块的关系}
 [此处指的是不同的数据结构分配到哪些模块去实现。可按不同的端拆分此表]
 \begin{table}[htbp]
 \centering
 \caption{数据结构与程序代码的关系表} \label{tab:datastructure-module}
-\begin{tabular}{|c|c|c|c|}
+\begin{tabular}{|c|c|c|c|c}
     \hline
-    · & 模块1 & 模块2 & 模块3 \\
+    · & TCP接收程序 & 数据包解码程序 & 客户端主程序 & 服务器端主程序\\
     \hline
-    结构1 & · & Y & · \\
+    数据包字节序列 & Y & . & . & .\\
     \hline
-    结构2 & · & Y & · \\
+    数据包 & · & Y & Y & Y \\
     \hline
-    结构3 & · & Y & · \\
+    联系人列表 & · & . & Y & Y\\
     \hline
-    结构4 & Y & · & · \\
-    \hline
-    结构5 & · & · & Y \\
+    离线信息列表 & · & . & Y & Y \\
     \hline
 \end{tabular}
 \note{各项数据结构的实现与各个程序模块的分配关系}

@@ -6,4 +6,53 @@
 详细讲述不同的接口（查询状态、支付交易、获取回执等）
 
 \section{内部接口}
-内部模块/系统之间的交互的接口。
+客户端
+\begin{itemize}
+	\item void App.SignIn(String username, String password) \\
+	客户端登录
+	\item void App.SignUp(String username, String password) \\
+	客户端注册
+	\item void App.CreateLink(String username)\\
+	客户端添加联系人
+	\item void App.DeleteLink(String username)\\
+	客户端删除联系人
+	\item void App.Send(String username, String message)\\
+	客户端发送信息给指定联系人
+	\item void App.SendToRoom(String message)\\
+	客户端发送信息给聊天室
+	\item void App.Receive(String username, String message)\\
+	客户端获取某联系人发来的信息
+	\item void App.ReceiveRoomMessage(String message)\\
+	客户端获取聊天室发来的信息	
+	\item void Packet.Tobytes() \\
+	把数据包转换成字节流
+	\item void Packet.FromBytes() \\
+	把字节流转换成数据包
+	\item void ConnectionManager.Send(Packet packet)\\
+	发送数据包
+	\item Packet ConnectionManager.ReceiveNext() \\
+	接收下一个数据包
+\end{itemize}
+服务器端
+\begin{itemize}
+	\item ChatServer.Receive() return packet \\
+	服务器获取数据包
+	\item ChatServer.ProcessMessage()\\
+	服务器处理数据包
+	\item ChatServer.Broadcast()\\
+	服务器广播数据包
+	\item ChatServer.Disconnect()\\
+	服务器断开连接
+    \item DBManager.SignUp(user, salt, MD5) return status \\
+    数据库模块把注册信息发送给数据库 
+    \item DBManager.SignIn(user, salt, MD5) return status, contacters\\
+    数据库模块把登录信息发送给数据库
+    \item DBManager.GetContacterList(user) return contacters\\
+    数据库模块获取联系人列表
+    \item DBManager.AddLink(user1,user2) return info\\
+    数据库模块某用户添加联系人
+    \item DBManager.DeleteLink(user1,user2) return info\\
+	数据库模块某用户删除联系人
+	\item DBManager.FetchUnreceivedMsg(user) return messages\\
+	数据库模块获取离线消息    
+\end{itemize}
